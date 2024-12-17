@@ -129,7 +129,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "14.23.636.9832"
+                            "value": "14.24.644.2327"
                         },
                         {
                             "name": "CursorOverride",
@@ -165,7 +165,7 @@
                         },
                         {
                             "name": "PredictMovement",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "RecommendJunglePaths",
@@ -233,6 +233,10 @@
                             "value": "0"
                         },
                         {
+                            "name": "EnableItemComponentPurchasing",
+                            "value": "1"
+                        },
+                        {
                             "name": "EnableLineMissileVis",
                             "value": "1"
                         },
@@ -254,7 +258,7 @@
                         },
                         {
                             "name": "GlobalScale",
-                            "value": "0.1600"
+                            "value": "0.0000"
                         },
                         {
                             "name": "GlobalScaleReplay",
@@ -410,7 +414,7 @@
                         },
                         {
                             "name": "SmartCastOnKeyRelease",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "SmartCastWithIndicator_CastWhenNewSpellSelected",
@@ -431,7 +435,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "2"
+                            "value": "0"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -443,11 +447,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1910"
+                            "value": "0.1949"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1463"
+                            "value": "-0.1472"
                         }
                     ]
                 },
@@ -715,11 +719,11 @@
                         },
                         {
                             "name": "evtNormalCastSpell1",
-                            "value": "null"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtNormalCastSpell2",
-                            "value": "null"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtNormalCastSpell3",
@@ -751,7 +755,7 @@
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
-                            "value": "[Shift] [Button 2]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtPlayerAttackOnlyClick",
@@ -1248,7 +1252,7 @@
                         },
                         {
                             "name": "evtToggleMouseClip",
-                            "value": "[F9]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtTogglePlayerStats",

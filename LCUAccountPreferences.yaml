@@ -68,7 +68,7 @@ champ-select:
             240: 240000
             245: 245000
             25: 25000
-            254: 254004
+            254: 254000
             26: 26000
             266: 266000
             267: 267000
@@ -166,19 +166,19 @@ champ-select:
             - 2201
             400:
             - 4
-            - 11
+            - 21
             420:
             - 4
-            - 7
+            - 21
             430:
             - 4
             - 3
             440:
             - 4
-            - 14
+            - 11
             450:
             - 4
-            - 32
+            - 6
             700:
             - 4
             - 21
@@ -223,7 +223,7 @@ custom-spell-selections:
     data:
         custom-spell-selections:
             spell1: 4
-            spell2: 32
+            spell2: 21
     schemaVersion: 0
 emotes:
     data:
@@ -234,8 +234,8 @@ emotes:
 event-hub:
     data:
         lastSeenTokenBalance: 100
-        lastSeenTokenShopOffersVersion: 813743699
-        lastTimeSeen: "2024-12-08T00:39:10.122Z"
+        lastSeenTokenShopOffersVersion: 1016926400
+        lastTimeSeen: "2024-12-16T22:30:18.484Z"
     schemaVersion: 1
 event-shop:
     data:
@@ -250,7 +250,7 @@ lol-challenges:
     schemaVersion: 1
 lol-challenges-latest-level-up:
     data:
-        lastLevelUpTime: 1733777115140
+        lastLevelUpTime: 1734392744638
     schemaVersion: 1
 lol-champ-select:
     data:
@@ -283,7 +283,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: "role"
-        lastVisitTime: 1733696436932
+        lastVisitTime: 1734132893316
         lcm-eat-seen: true
         sortingDropdownKey: ""
         unownedFilter: "none"
@@ -421,11 +421,12 @@ lol-home-hubs:
             motionDisabled: "false"
             page: "null"
             redirectTo: "null"
-            seenIntro: "false"
+            seenIntro: "3"
             seenPhase: "null"
             slide: "\"c857ff475f139ee3c80397447694c66f\""
             tab: "\"5ff2d79e6de0e93ecf0189f75b72d13e\""
             viewedPages: "[]"
+            winnerSeen: "false"
         winterblessed-embed-2022:
             introWatched: "true"
         worlds-hub-2022:
@@ -454,6 +455,9 @@ lol-loot:
         mass-disenchant-tooltip-seen: true
         mythicEssenceModalSeen: true
         mythicEssenceNavigationTooltipSeen: true
+        sanctumEATSeen: true
+        watchedFirstTimeNachoVideos:
+        - "/lol-game-data/assets/ASSETS/Nacho/skin-intro.LOL_Project_Nacho_Initial_Banner.webm"
     schemaVersion: 1
 lol-notifications:
     data:
@@ -512,22 +516,22 @@ lol-quick-play:
 lol-skins-viewer:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1731469818196
+        lastVisitTime: 1734132893317
         sortingDropdownKey: "acquisitionDate"
         unownedFilter: false
     schemaVersion: 2
 lol-tft:
     data:
-        lastTFTBPSeen: "0cef56b9-139b-4f38-9a22-fb5b00141380"
+        lastTFTBPSeen: "b5462d93-5931-4c56-a4e0-00d29ad65e51"
         lastTftGameQueueId: 1090
         lastTftSetNameSeen: "TFTSet13"
         previouslySeenSeasons: "TFT7_Series,TFT7_5_Series,TFT8_Series,TFT8_5_Series,1686765600000,1694541600000,1694628000000,1706130000000"
         seenOfferIds:
             storeOfferIds:
             - "d1a4d78a-ae65-4599-bcbd-4a1859bb5c1d"
-            - "cdb5e852-bb1a-41f4-b844-99e0006a5f66"
+            - "5885dad7-097c-41bd-86de-b90400ee6e09"
             tacticianOfferIds:
-            - "c8e94907-4f50-4aae-86ad-29116df00cb0"
+            - "e7da4b4b-93e7-4662-966e-f8bfec31d930"
         shouldShowTFTNPEQueueUnlock: true
         tftEmeraldModalSeen: true
     schemaVersion: 1
@@ -554,8 +558,8 @@ parties-settings:
     schemaVersion: 0
 partiesPositionPreferences:
     data:
-        firstPreference: "UTILITY"
-        secondPreference: "BOTTOM"
+        firstPreference: "BOTTOM"
+        secondPreference: "UTILITY"
     schemaVersion: 0
 personalized-offers:
     data:
@@ -599,5 +603,5 @@ ranked-eos-notification-16-RANKED_SOLO_5x5-SECOND_WARNING:
     schemaVersion: 1
 yourshop:
     data:
-        lastViewedTimestamp: "2024-12-08T22:20:32.862Z"
+        lastViewedTimestamp: "2024-12-13T23:33:54.857Z"
     schemaVersion: 1
