@@ -3,20 +3,105 @@ page-settings:
         pages: []
         perShardPerkBooks:
             euw1:
-                currentPageId: 1069708815
+                currentPageId: 1840336945
                 pages:
                 -   autoModifiedSelections: []
-                    current: false
-                    id: 2145869361
+                    current: true
+                    id: 1840336945
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1734392745069
-                    name: "Moba: ARAM Varus build"
-                    order: 0
+                    lastModified: 1731112470362
+                    name: "Moba: Pyke build vs Seraphine"
+                    order: 1
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/HailOfBlades/HailOfBlades.png"
+                        id: 9923
+                        name: "Hail of Blades"
+                        slotType: "kKeyStone"
+                        styleId: 8100
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/domination_icon_16.svg"
+                    primaryStyleId: 8100
+                    primaryStyleName: "Domination"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
+                    secondaryStyleName: "Resolve"
+                    selectedPerkIds:
+                    - 9923
+                    - 8126
+                    - 8136
+                    - 8106
+                    - 8473
+                    - 8242
+                    - 5008
+                    - 5008
+                    - 5001
+                    subStyleId: 8400
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/p8100_s8400_k9923.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/HailOfBlades/HailOfBlades.png"
+                        id: 9923
+                        name: "Hail of Blades"
+                        slotType: "kKeyStone"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/CheapShot/CheapShot.png"
+                        id: 8126
+                        name: "Cheap Shot"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/ZombieWard/ZombieWard.png"
+                        id: 8136
+                        name: "Zombie Ward"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/UltimateHunter/UltimateHunter.png"
+                        id: 8106
+                        name: "Ultimate Hunter"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8100
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/BonePlating/BonePlating.png"
+                        id: 8473
+                        name: "Bone Plating"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/Unflinching/Unflinching.png"
+                        id: 8242
+                        name: "Unflinching"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "Health Scaling"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 452371556
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1731112409527
+                    name: "OP.GG adc Zeri"
+                    order: 2
                     pageKeystone:
                         iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
                         id: 8008
@@ -30,51 +115,51 @@ page-settings:
                     recommendationChampionId: 0
                     recommendationIndex: -1
                     runeRecommendationId: ""
-                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/domination_icon_16.svg"
-                    secondaryStyleName: "Domination"
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
+                    secondaryStyleName: "Resolve"
                     selectedPerkIds:
                     - 8008
-                    - 8009
-                    - 9103
-                    - 8014
-                    - 8139
-                    - 8135
+                    - 9111
+                    - 9104
+                    - 8299
+                    - 8429
+                    - 8451
                     - 5005
                     - 5008
                     - 5001
-                    subStyleId: 8100
-                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8100_k8008.jpg"
+                    subStyleId: 8400
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8400_k8008.jpg"
                     uiPerks:
                     -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
                         id: 8008
                         name: "Lethal Tempo"
                         slotType: "kKeyStone"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/PresenceOfMind/PresenceOfMind.png"
-                        id: 8009
-                        name: "Presence of Mind"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Triumph.png"
+                        id: 9111
+                        name: "Triumph"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendBloodline/LegendBloodline.png"
-                        id: 9103
-                        name: "Legend: Bloodline"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendAlacrity/LegendAlacrity.png"
+                        id: 9104
+                        name: "Legend: Alacrity"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/CoupDeGrace/CoupDeGrace.png"
-                        id: 8014
-                        name: "Coup de Grace"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/LastStand/LastStand.png"
+                        id: 8299
+                        name: "Last Stand"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/TasteOfBlood/GreenTerror_TasteOfBlood.png"
-                        id: 8139
-                        name: "Taste of Blood"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Conditioning/Conditioning.png"
+                        id: 8429
+                        name: "Conditioning"
                         slotType: "kMixedRegularSplashable"
-                        styleId: 8100
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Domination/TreasureHunter/TreasureHunter.png"
-                        id: 8135
-                        name: "Treasure Hunter"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Overgrowth/Overgrowth.png"
+                        id: 8451
+                        name: "Overgrowth"
                         slotType: "kMixedRegularSplashable"
-                        styleId: 8100
+                        styleId: 8400
                     -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
                         id: 5005
                         name: "Attack Speed"
@@ -94,6 +179,6 @@ page-settings:
             gameplayPatchVersionSeen: "11.23"
             gameplayUpdatedPerksSeen: []
             gridModeEnabled: true
-            showLongDescriptions: true
+            showLongDescriptions: false
             showPresetPages: true
     schemaVersion: 5

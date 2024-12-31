@@ -129,7 +129,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "14.24.644.2327"
+                            "value": "14.22.633.1362"
                         },
                         {
                             "name": "CursorOverride",
@@ -157,7 +157,7 @@
                         },
                         {
                             "name": "GameMouseSpeed",
-                            "value": "10"
+                            "value": "9"
                         },
                         {
                             "name": "OSXMouseAcceleration",
@@ -165,7 +165,7 @@
                         },
                         {
                             "name": "PredictMovement",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "RecommendJunglePaths",
@@ -202,7 +202,7 @@
                         },
                         {
                             "name": "CameraLockMode",
-                            "value": "2"
+                            "value": "0"
                         },
                         {
                             "name": "ChatChannelVisibility",
@@ -233,10 +233,6 @@
                             "value": "0"
                         },
                         {
-                            "name": "EnableItemComponentPurchasing",
-                            "value": "1"
-                        },
-                        {
                             "name": "EnableLineMissileVis",
                             "value": "1"
                         },
@@ -258,7 +254,7 @@
                         },
                         {
                             "name": "GlobalScale",
-                            "value": "0.0000"
+                            "value": "0.1600"
                         },
                         {
                             "name": "GlobalScaleReplay",
@@ -334,7 +330,7 @@
                         },
                         {
                             "name": "ScrollSmoothingEnabled",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShopScale",
@@ -378,11 +374,11 @@
                         },
                         {
                             "name": "ShowPlayerPerks",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowPlayerStats",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowSpellCosts",
@@ -414,11 +410,11 @@
                         },
                         {
                             "name": "SmartCastOnKeyRelease",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "SmartCastWithIndicator_CastWhenNewSpellSelected",
-                            "value": "1"
+                            "value": "0"
                         }
                     ]
                 },
@@ -435,7 +431,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "2"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -447,11 +443,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1949"
+                            "value": "0.1590"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1472"
+                            "value": "-0.1500"
                         }
                     ]
                 },
@@ -719,11 +715,11 @@
                         },
                         {
                             "name": "evtNormalCastSpell1",
-                            "value": "[<Unbound>]"
+                            "value": "null"
                         },
                         {
                             "name": "evtNormalCastSpell2",
-                            "value": "[<Unbound>]"
+                            "value": "null"
                         },
                         {
                             "name": "evtNormalCastSpell3",
@@ -755,7 +751,7 @@
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
-                            "value": "[<Unbound>]"
+                            "value": "[Shift] [Button 2]"
                         },
                         {
                             "name": "evtPlayerAttackOnlyClick",
@@ -854,14 +850,6 @@
                             "value": ""
                         },
                         {
-                            "name": "evtReciprocityMyBadTrigger",
-                            "value": "[i]"
-                        },
-                        {
-                            "name": "evtReciprocityTrigger",
-                            "value": "[u]"
-                        },
-                        {
                             "name": "evtScrollDown",
                             "value": "[Down Arrow]"
                         },
@@ -879,23 +867,23 @@
                         },
                         {
                             "name": "evtSelectAlly1",
-                            "value": "[F1]"
-                        },
-                        {
-                            "name": "evtSelectAlly2",
                             "value": "[F2]"
                         },
                         {
-                            "name": "evtSelectAlly3",
+                            "name": "evtSelectAlly2",
                             "value": "[F3]"
                         },
                         {
-                            "name": "evtSelectAlly4",
+                            "name": "evtSelectAlly3",
                             "value": "[F4]"
                         },
                         {
+                            "name": "evtSelectAlly4",
+                            "value": "[F5]"
+                        },
+                        {
                             "name": "evtSelectSelf",
-                            "value": "[<Unbound>]"
+                            "value": "[F1]"
                         },
                         {
                             "name": "evtSelfCastAvatarSpell1",
@@ -1252,7 +1240,7 @@
                         },
                         {
                             "name": "evtToggleMouseClip",
-                            "value": "[<Unbound>]"
+                            "value": "[F9]"
                         },
                         {
                             "name": "evtTogglePlayerStats",
