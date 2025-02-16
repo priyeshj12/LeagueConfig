@@ -6,7 +6,7 @@ install:
         accountId: 3018421651285248
         modified: false
         timestamp: 0
-    gameflow-patcher-lock: 1735610082290
+    gameflow-patcher-lock: 1739731914359
     gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
     globals:
@@ -31,10 +31,10 @@ install:
         modified: false
         timestamp: 0
     riotclient-upgrade:
-        seq-success-count: 132
-        success-count: 132
+        seq-success-count: 96
+        success-count: 96
     rso-auth:
-        install-identifier: "7358ee5472f84d43b1162fad48d4f405"
+        install-identifier: "896e6c9edded6548bdc1c9eea4a52485"
     tft-settings:
         accountId: 3018421651285248
         modified: false
