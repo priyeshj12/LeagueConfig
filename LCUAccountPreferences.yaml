@@ -4,7 +4,7 @@ STRAWBERRY_LOCAL_SETTINGS_V1:
     schemaVersion: 0
 activity-center:
     data:
-        tabsViewed: "{\"25-s1-1-ac-ranked\":\"2025-01-24T02:01:01.407Z\",\"25-s1-2-ac-lny2025\":\"2025-02-06T16:04:00.201Z\"}"
+        tabsViewed: "{\"25-s1-1-ac-ranked\":\"2025-01-24T02:01:01.407Z\",\"25-s1-3-ac-radiant-serpent-sett\":\"2025-02-21T00:11:54.210Z\"}"
         thematicTimelineViewed: "15.2"
     schemaVersion: 1
 career-stats-settings:
@@ -99,7 +99,7 @@ champ-select:
             - 21
             440:
             - 4
-            - 21
+            - 12
             450:
             - 4
             - 32
@@ -134,7 +134,7 @@ event-hub:
     data:
         lastSeenTokenBalance: 0
         lastSeenTokenShopOffersVersion: 0
-        lastTimeSeen: "2025-02-16T00:30:12.695Z"
+        lastTimeSeen: "2025-03-03T00:36:51.206Z"
     schemaVersion: 1
 event-shop:
     data:
@@ -144,7 +144,7 @@ event-shop:
     schemaVersion: 1
 lol-challenges-latest-level-up:
     data:
-        lastLevelUpTime: 0
+        lastLevelUpTime: 1740942491537
     schemaVersion: 1
 lol-champ-select:
     data:
@@ -165,14 +165,14 @@ lol-chat:
     schemaVersion: 1
 lol-clash:
     data:
-        clash-eat-tooltip-37321: true
+        clash-arurf2025-modal-shown: true
+        clash-eat-tooltip-37541: true
         lftPlayerToggleTooltipSeen: true
-        openTeamToggleTooltipSeen: true
     schemaVersion: 1
 lol-collection-champions:
     data:
         groupingDropdownKey: "undefined"
-        lastVisitTime: 1739552507527
+        lastVisitTime: 1740274210334
         lcm-eat-seen: true
         sortingDropdownKey: "undefined"
         unownedFilter: "none"
@@ -203,19 +203,19 @@ lol-collection-wards:
     schemaVersion: 3
 lol-customizer-banners:
     data:
-        lastVisitTime: 1739665258779
+        lastVisitTime: 1740434698399
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1739665255627
+        lastVisitTime: 1740434696444
     schemaVersion: 1
 lol-customizer-titles:
     data:
-        lastVisitTime: 1738533809742
+        lastVisitTime: 1740434701799
     schemaVersion: 1
 lol-customizer-tokens:
     data:
-        lastVisitTime: 1739665262020
+        lastVisitTime: 1740434697947
     schemaVersion: 1
 lol-general:
     data:
@@ -413,7 +413,8 @@ lol-honor:
     schemaVersion: 1
 lol-info-hub:
     data:
-        latestViewedVersion: "15.3"
+        lastUpdateTime: "2025-02-26T16:12:53.000Z"
+        latestViewedVersion: "15.4"
     schemaVersion: 1
 lol-leagues:
     data:
@@ -506,6 +507,7 @@ lol-skins-viewer:
     schemaVersion: 2
 lol-tft:
     data:
+        TFTLootDepPreModalViewed: true
         lastTFTBPSeen: "bba40b4b-0da8-4157-bd5d-12ada7a569e5"
         lastTftSetNameSeen: "TFTSet13"
         previouslySeenSeasons: "TFT8_5_Series,1686765600000,1694628000000,1706130000000"

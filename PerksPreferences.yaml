@@ -3,7 +3,7 @@ page-settings:
         pages: []
         perShardPerkBooks:
             euw1:
-                currentPageId: 485083574
+                currentPageId: 506129172
                 pages:
                 -   autoModifiedSelections: []
                     current: false
@@ -14,7 +14,7 @@ page-settings:
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1739488424803
+                    lastModified: 1739821870990
                     name: "Moba: Most Popular Kai'Sa Build"
                     order: 1
                     pageKeystone:
@@ -100,7 +100,7 @@ page-settings:
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1739663186359
+                    lastModified: 1740962456380
                     name: "OP.GG adc Zeri"
                     order: 2
                     pageKeystone:
@@ -178,15 +178,15 @@ page-settings:
                         styleId: 8400
                 -   autoModifiedSelections: []
                     current: true
-                    id: 485083574
+                    id: 506129172
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1739663238896
-                    name: "Moba: Highest WR Kai'Sa Build"
+                    lastModified: 1740962578560
+                    name: "Moba: Most Popular Jinx Build"
                     order: 2
                     pageKeystone:
                         iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
@@ -201,20 +201,20 @@ page-settings:
                     recommendationChampionId: 0
                     recommendationIndex: -1
                     runeRecommendationId: ""
-                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/inspiration_icon_16.svg"
-                    secondaryStyleName: "Inspiration"
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/sorcery_icon_16.svg"
+                    secondaryStyleName: "Sorcery"
                     selectedPerkIds:
                     - 8008
                     - 8009
                     - 9103
                     - 8014
-                    - 8345
-                    - 8304
+                    - 8233
+                    - 8236
                     - 5005
                     - 5008
                     - 5001
-                    subStyleId: 8300
-                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8300_k8008.jpg"
+                    subStyleId: 8200
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8200_k8008.jpg"
                     uiPerks:
                     -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
                         id: 8008
@@ -236,16 +236,16 @@ page-settings:
                         name: "Coup de Grace"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png"
-                        id: 8345
-                        name: "Biscuit Delivery"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png"
+                        id: 8233
+                        name: "Absolute Focus"
                         slotType: "kMixedRegularSplashable"
-                        styleId: 8300
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png"
-                        id: 8304
-                        name: "Magical Footwear"
+                        styleId: 8200
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/GatheringStorm/GatheringStorm.png"
+                        id: 8236
+                        name: "Gathering Storm"
                         slotType: "kMixedRegularSplashable"
-                        styleId: 8300
+                        styleId: 8200
                     -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
                         id: 5005
                         name: "Attack Speed"
