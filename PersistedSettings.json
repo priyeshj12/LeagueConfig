@@ -129,7 +129,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "15.4.657.5386"
+                            "value": "15.6.668.2516"
                         },
                         {
                             "name": "CursorOverride",
@@ -165,7 +165,7 @@
                         },
                         {
                             "name": "PredictMovement",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "RecommendJunglePaths",
@@ -189,7 +189,7 @@
                         },
                         {
                             "name": "ThemeMusic",
-                            "value": "0"
+                            "value": "1"
                         }
                     ]
                 },
@@ -258,7 +258,7 @@
                         },
                         {
                             "name": "GlobalScale",
-                            "value": "0.1600"
+                            "value": "0.0000"
                         },
                         {
                             "name": "GlobalScaleReplay",
@@ -282,7 +282,7 @@
                         },
                         {
                             "name": "MapScrollSpeed",
-                            "value": "0.2600"
+                            "value": "0.3100"
                         },
                         {
                             "name": "MiddleClickDragScrollEnabled",
@@ -378,11 +378,11 @@
                         },
                         {
                             "name": "ShowPlayerPerks",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowPlayerStats",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowSpellCosts",
@@ -447,11 +447,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1797"
+                            "value": "0.2016"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1102"
+                            "value": "-0.1454"
                         }
                     ]
                 },
@@ -557,7 +557,7 @@
                         },
                         {
                             "name": "SfxMute",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "SfxVolume",
@@ -719,11 +719,11 @@
                         },
                         {
                             "name": "evtNormalCastSpell1",
-                            "value": "null"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtNormalCastSpell2",
-                            "value": "null"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtNormalCastSpell3",
@@ -751,7 +751,7 @@
                         },
                         {
                             "name": "evtPlayerAttackMove",
-                            "value": "[Shift][Button 2],[<Unbound>]"
+                            "value": "[<Unbound>],[<Unbound>]"
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
@@ -759,7 +759,7 @@
                         },
                         {
                             "name": "evtPlayerAttackOnlyClick",
-                            "value": "[<Unbound>]"
+                            "value": "[Shift][Button 2]"
                         },
                         {
                             "name": "evtPlayerHoldPosition",
@@ -879,23 +879,23 @@
                         },
                         {
                             "name": "evtSelectAlly1",
-                            "value": "[F2]"
+                            "value": "[F1]"
                         },
                         {
                             "name": "evtSelectAlly2",
-                            "value": "[F3]"
+                            "value": "[F2]"
                         },
                         {
                             "name": "evtSelectAlly3",
-                            "value": "[F4]"
+                            "value": "[F3]"
                         },
                         {
                             "name": "evtSelectAlly4",
-                            "value": "[F5]"
+                            "value": "[F4]"
                         },
                         {
                             "name": "evtSelectSelf",
-                            "value": "[F1]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastAvatarSpell1",
@@ -951,7 +951,7 @@
                         },
                         {
                             "name": "evtShowCharacterMenu",
-                            "value": "[c],[CapsLock]"
+                            "value": "[CapsLock],"
                         },
                         {
                             "name": "evtShowHealthBars",
@@ -1003,15 +1003,15 @@
                         },
                         {
                             "name": "evtSmartCastSpell1",
-                            "value": "[Shift][q]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell2",
-                            "value": "[Shift][w]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell3",
-                            "value": "[Shift][e]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell4",
@@ -1055,15 +1055,15 @@
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell1",
-                            "value": "null"
+                            "value": "[Shift][q]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell2",
-                            "value": "null"
+                            "value": "[Shift][w]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell3",
-                            "value": "null"
+                            "value": "[Shift][e]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell4",
@@ -1248,11 +1248,11 @@
                         },
                         {
                             "name": "evtToggleFPSAndLatency",
-                            "value": "[<Unbound>],"
+                            "value": "[Ctrl] [f]"
                         },
                         {
                             "name": "evtToggleMouseClip",
-                            "value": "[F9]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtTogglePlayerStats",
@@ -1327,15 +1327,6 @@
                         {
                             "name": "evtShopSwitchTabs",
                             "value": "[Ctrl] [TAB]"
-                        }
-                    ]
-                },
-                {
-                    "name": "Swarm",
-                    "settings": [
-                        {
-                            "name": "MoveLeft",
-                            "value": "[<Unbound>]"
                         }
                     ]
                 }

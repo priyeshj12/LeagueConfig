@@ -3,17 +3,17 @@ install:
         enabled: true
         type: "crashpad"
     game-settings:
-        accountId: 3018421651285248
+        accountId: 2603799230186848
         modified: false
         timestamp: 0
-    gameflow-patcher-lock: 1740965287043
+    gameflow-patcher-lock: 1743376934931
     gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
     globals:
         locale: "en_GB"
         region: "EUW"
     lcu-settings:
-        accountId: 3018421651285248
+        accountId: 2603799230186848
         modified: false
         timestamp: 0
     patcher:
@@ -27,19 +27,19 @@ install:
             new_client_patcher: 0
             new_game_patcher: 0
     perks-settings:
-        accountId: 3018421651285248
+        accountId: 2603799230186848
         modified: false
         timestamp: 0
     riotclient-upgrade:
-        seq-success-count: 115
-        success-count: 115
+        seq-success-count: 158
+        success-count: 158
     rso-auth:
         install-identifier: "896e6c9edded6548bdc1c9eea4a52485"
     tft-settings:
-        accountId: 3018421651285248
+        accountId: 2603799230186848
         modified: false
         timestamp: 0
     tft-team-plans-settings:
-        accountId: 0
+        accountId: 2603799230186848
         modified: false
         timestamp: 0
