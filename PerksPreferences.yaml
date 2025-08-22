@@ -3,20 +3,20 @@ page-settings:
         pages: []
         perShardPerkBooks:
             euw1:
-                currentPageId: 350899152
+                currentPageId: 871071083
                 pages:
                 -   autoModifiedSelections: []
                     current: true
-                    id: 350899152
+                    id: 871071083
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1743374340319
-                    name: "Moba: Kai'Sa build vs Xayah"
-                    order: 0
+                    lastModified: 1755819419677
+                    name: "Moba: Off-Meta Kai'Sa Build"
+                    order: 1
                     pageKeystone:
                         iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
                         id: 8008
@@ -90,10 +90,95 @@ page-settings:
                         name: "Health Scaling"
                         slotType: "kStatMod"
                         styleId: 8400
+                -   autoModifiedSelections: []
+                    current: false
+                    id: 452371556
+                    isActive: false
+                    isDeletable: true
+                    isEditable: true
+                    isRecommendationOverride: false
+                    isTemporary: false
+                    isValid: true
+                    lastModified: 1755819387591
+                    name: "OP.GG adc Zeri"
+                    order: 2
+                    pageKeystone:
+                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
+                        id: 8008
+                        name: "Lethal Tempo"
+                        slotType: "kKeyStone"
+                        styleId: 8000
+                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/precision_icon_16.svg"
+                    primaryStyleId: 8000
+                    primaryStyleName: "Precision"
+                    quickPlayChampionIds: []
+                    recommendationChampionId: 0
+                    recommendationIndex: -1
+                    runeRecommendationId: ""
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
+                    secondaryStyleName: "Resolve"
+                    selectedPerkIds:
+                    - 8008
+                    - 9111
+                    - 9104
+                    - 8299
+                    - 8429
+                    - 8451
+                    - 5005
+                    - 5008
+                    - 5001
+                    subStyleId: 8400
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8400_k8008.jpg"
+                    uiPerks:
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
+                        id: 8008
+                        name: "Lethal Tempo"
+                        slotType: "kKeyStone"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Triumph.png"
+                        id: 9111
+                        name: "Triumph"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendAlacrity/LegendAlacrity.png"
+                        id: 9104
+                        name: "Legend: Alacrity"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/LastStand/LastStand.png"
+                        id: 8299
+                        name: "Last Stand"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Conditioning/Conditioning.png"
+                        id: 8429
+                        name: "Conditioning"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Overgrowth/Overgrowth.png"
+                        id: 8451
+                        name: "Overgrowth"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
+                        id: 5005
+                        name: "Attack Speed"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+                        id: 5008
+                        name: "Adaptive Force"
+                        slotType: "kStatMod"
+                        styleId: 8400
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "Health Scaling"
+                        slotType: "kStatMod"
+                        styleId: 8400
         settings:
             gameplayPatchVersionSeen: "14.1"
             gameplayUpdatedPerksSeen: []
             gridModeEnabled: true
-            showLongDescriptions: true
+            showLongDescriptions: false
             showPresetPages: true
     schemaVersion: 5
