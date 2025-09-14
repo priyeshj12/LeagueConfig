@@ -104,6 +104,9 @@ lol-clash:
         - "lock_in_open_tournament_37741_phase_37141"
         - "registration_open_tournament_37742"
         - "lock_in_open_tournament_37742_phase_37142"
+        - "registration_open_tournament_37761"
+        - "lock_in_open_tournament_37761_phase_37161"
+        - "lock_in_open_tournament_37762_phase_37162"
     schemaVersion: 1
 lol-home:
     data:

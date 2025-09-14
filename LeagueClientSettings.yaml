@@ -31,8 +31,8 @@ install:
         modified: false
         timestamp: 0
     riotclient-upgrade:
-        seq-success-count: 292
-        success-count: 292
+        seq-success-count: 341
+        success-count: 341
     rso-auth:
         install-identifier: "896e6c9edded6548bdc1c9eea4a52485"
     tft-settings:

@@ -4,7 +4,7 @@ STRAWBERRY_LOCAL_SETTINGS_V1:
     schemaVersion: 0
 activity-center:
     data:
-        tabsViewed: "{\"25-15-ac-mv-sbs-ahri\":\"2025-08-12T21:51:09.762Z\",\"25-16-ac-variety-skins\":\"2025-08-18T21:28:43.169Z\",\"25-9-ac-ranked\":\"2025-08-20T23:08:44.775Z\"}"
+        tabsViewed: "{\"25-17-ac-thematic\":\"2025-08-27T20:43:45.246Z\",\"25-17-ac-ranked\":\"2025-08-28T21:48:05.859Z\",\"25-17-ac-doombots\":\"2025-08-29T21:59:21.364Z\",\"25-18-ac-worlds-winners\":true,\"25-18-ac-prestige-sylas\":true}"
         thematicTimelineViewed: "15.2"
     schemaVersion: 1
 career-stats-settings:
@@ -19,6 +19,7 @@ champ-select:
             10: 10000
             101: 101000
             103: 103000
+            104: 104000
             105: 105000
             11: 11000
             110: 110009
@@ -104,18 +105,27 @@ champ-select:
             1700:
             - 2202
             - 2201
+            3100:
+            - 4
+            - 21
             400:
             - 4
             - 21
             420:
             - 4
             - 21
+            4240:
+            - 4
+            - 12
+            4250:
+            - 4
+            - 12
             440:
             - 4
             - 21
             450:
             - 4
-            - 6
+            - 32
             900:
             - 4
             - 14
@@ -141,6 +151,7 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
+        - 4906
         - 4886
         - 3006
         - 3168
@@ -162,10 +173,10 @@ emotes:
 event-hub:
     data:
         playerSettingsDataMap:
-            eaec5754-7f65-4a62-a707-d39a0c814dcb:
+            b728afa7-8100-471d-a497-104a4904618f:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2025-08-21T20:46:20.703Z"
+                lastTimeSeen: "2025-09-14T16:13:39.774Z"
     schemaVersion: 1
 event-shop:
     data:
@@ -175,7 +186,7 @@ event-shop:
     schemaVersion: 1
 lol-challenges-latest-level-up:
     data:
-        lastLevelUpTime: 1755812584399
+        lastLevelUpTime: 0
     schemaVersion: 1
 lol-champ-select:
     data:
@@ -198,11 +209,13 @@ lol-chat:
 lol-clash:
     data:
         clash-eat-tooltip-37742: true
+        lftPlayerToggleTooltipSeen: true
+        openTeamToggleTooltipSeen: true
     schemaVersion: 1
 lol-collection-champions:
     data:
         groupingDropdownKey: "undefined"
-        lastVisitTime: 1755519554190
+        lastVisitTime: 1757873220121
         lcm-eat-seen: true
         sortingDropdownKey: "undefined"
         unownedFilter: "none"
@@ -210,15 +223,23 @@ lol-collection-champions:
 lol-collection-chromas:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1748995390847
+        lastVisitTime: 1756588611745
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
     schemaVersion: 2
+lol-collection-finishers:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1756588611745
+        sortingDropdownKey: "acquisitionDate"
+        unavailableFilter: false
+        unownedFilter: false
+    schemaVersion: 1
 lol-collection-summoner-icons:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1749685783909
+        lastVisitTime: 1757168053268
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
@@ -226,26 +247,26 @@ lol-collection-summoner-icons:
 lol-collection-wards:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1738710095100
+        lastVisitTime: 1756588611745
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
     schemaVersion: 3
 lol-customizer-banners:
     data:
-        lastVisitTime: 1755720011773
+        lastVisitTime: 1757602719478
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1755720012649
+        lastVisitTime: 1757602718003
     schemaVersion: 1
 lol-customizer-titles:
     data:
-        lastVisitTime: 1755281457208
+        lastVisitTime: 1757602718527
     schemaVersion: 1
 lol-customizer-tokens:
     data:
-        lastVisitTime: 1755720008173
+        lastVisitTime: 1757602720111
     schemaVersion: 1
 lol-general:
     data:
@@ -443,21 +464,21 @@ lol-honor:
     schemaVersion: 1
 lol-info-hub:
     data:
-        lastUpdateTime: "2025-08-18T18:00:09.000Z"
-        latestViewedVersion: "15.16"
+        lastUpdateTime: "2025-09-10T18:04:31.000Z"
+        latestViewedVersion: "15.18"
     schemaVersion: 1
 lol-leagues:
     data:
-        FINAL_RANK_ONE_OF_SEASON-RANKED_FLEX_SR: 17
-        FINAL_RANK_ONE_OF_SEASON-RANKED_SOLO_5x5: 17
+        FINAL_RANK_ONE_OF_SEASON-RANKED_FLEX_SR: 19
+        FINAL_RANK_ONE_OF_SEASON-RANKED_SOLO_5x5: 19
         FIRST_CHALLENGER_OF_SEASON-RANKED_FLEX_SR: 18
         FIRST_CHALLENGER_OF_SEASON-RANKED_SOLO_5x5: 18
         hasSeenFlexRestrictionModal: true
         last-split-end-notification: 19
         last-split-start-modal: 13.100000
-        season-memorial-modal: 17
+        season-memorial-modal: 19
         season-start-takeover:
-            season: 19
+            season: 20
     schemaVersion: 1
 lol-loot:
     data:
@@ -506,8 +527,8 @@ lol-premade-voice:
         autoJoin: false
         inputMode: "voiceActivity"
         muteOnConnect: false
-        pushToTalkKey: "[<Unbound>]"
-        showFirstExperienceInGame: true
+        pushToTalkKey: "[v]"
+        showFirstExperienceInGame: false
         showFirstExperienceInLCU: false
     schemaVersion: 1
 lol-profiles:
@@ -543,12 +564,25 @@ lol-quick-play:
                 skinId: 101000
                 spell1: 4
                 spell2: 3
+            480:
+            -   championId: 145
+                perks: "{\"perkIds\":[8005,8009,9103,8014,8345,8304,5005,5008,5001],\"perkStyle\":8000,\"perkSubStyle\":8300}"
+                positionPreference: "BOTTOM"
+                skinId: 145000
+                spell1: 4
+                spell2: 21
+            -   championId: 39
+                perks: "{\"perkIds\":[8010,9111,9104,8299,8345,8316,5005,5008,5001],\"perkStyle\":8000,\"perkSubStyle\":8300}"
+                positionPreference: "TOP"
+                skinId: 39002
+                spell1: 4
+                spell2: 7
     schemaVersion: 1
 lol-skins-viewer:
     data:
-        groupingDropdownKey: "myCollection"
-        lastVisitTime: 1755281426819
-        sortingDropdownKey: "acquisitionDate"
+        groupingDropdownKey: "tier"
+        lastVisitTime: 1757866434065
+        sortingDropdownKey: "tier"
         unownedFilter: false
     schemaVersion: 2
 lol-tft:
@@ -570,12 +604,17 @@ lol-tft:
     schemaVersion: 1
 lol-tutorial:
     data:
+        Map11_RUBY_TRIAL_1_TutorialSeen: true
+        Map11_RUBY_TRIAL_2_TutorialSeen: true
+        Map11_RUBY_TutorialSeen: true
         Map11_SWIFTPLAY_SWIFTPLAY_TutorialSeen: true
         Map12_ARAM_TutorialSeen: true
         Map12_CLASSIC_TutorialSeen: true
         Map30_CHERRY_2024_05_TutorialSeen: true
         Map35_BRAWL_TutorialSeen: true
         championSelectRunesTooltipSeenCount: 9
+        perksCreateNewPageSeen: true
+        perksPresetPagesSeen: true
     schemaVersion: 1
 parties-settings:
     data:
@@ -633,5 +672,5 @@ ranked-eos-notification-19-RANKED_SOLO_5x5-SECOND_WARNING:
     schemaVersion: 1
 yourshop:
     data:
-        lastViewedTimestamp: "2025-06-17T12:16:48.465Z"
+        lastViewedTimestamp: "2025-09-14T16:13:55.406Z"
     schemaVersion: 1
