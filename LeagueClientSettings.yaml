@@ -6,8 +6,17 @@ install:
         accountId: 3018421651285248
         modified: false
         timestamp: 0
-    gameflow-patcher-lock: null
-    gameflow-process-info: null
+    gameflow-patcher-lock: 1759496538115
+    gameflow-process-info:
+        pid: 12844
+        rawArgs:
+        - "162.249.72.5 7227 s4yQC2CXkAfwzyyI9tiYvQ== 3018421651285248"
+        - "-Product=LoL"
+        - "-PlayerID=3018421651285248"
+        - "-GameID=7553787330"
+        - "-PlayerNameMode=ALIAS"
+        - "-LNPBlob=sAqZBKnMbK0="
+        standalone: false
     gameflow-spectate-reconnect-info: null
     globals:
         locale: "en_GB"
@@ -31,8 +40,8 @@ install:
         modified: false
         timestamp: 0
     riotclient-upgrade:
-        seq-success-count: 341
-        success-count: 341
+        seq-success-count: 378
+        success-count: 378
     rso-auth:
         install-identifier: "896e6c9edded6548bdc1c9eea4a52485"
     tft-settings:

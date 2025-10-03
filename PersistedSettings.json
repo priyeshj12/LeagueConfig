@@ -129,7 +129,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "15.18.710.2811"
+                            "value": "15.19.715.1836"
                         },
                         {
                             "name": "CursorOverride",
@@ -390,11 +390,11 @@
                         },
                         {
                             "name": "ShowPlayerPerks",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowPlayerStats",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowSpellCosts",
@@ -447,7 +447,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "2"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -459,11 +459,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0520"
+                            "value": "0.0625"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1481"
+                            "value": "-0.1472"
                         }
                     ]
                 },

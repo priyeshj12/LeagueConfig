@@ -4,7 +4,7 @@ STRAWBERRY_LOCAL_SETTINGS_V1:
     schemaVersion: 0
 activity-center:
     data:
-        tabsViewed: "{\"25-17-ac-thematic\":\"2025-08-27T20:43:45.246Z\",\"25-17-ac-ranked\":\"2025-08-28T21:48:05.859Z\",\"25-17-ac-doombots\":\"2025-08-29T21:59:21.364Z\",\"25-18-ac-worlds-winners\":true,\"25-18-ac-prestige-sylas\":true}"
+        tabsViewed: "{\"25-17-ac-ranked\":\"2025-08-28T21:48:05.859Z\",\"25-17-ac-doombots\":\"2025-08-29T21:59:21.364Z\",\"25-18-ac-worlds-winners\":true,\"25-19-ac-motioncomic\":true,\"25-10-ac-brawl\":true}"
         thematicTimelineViewed: "15.2"
     schemaVersion: 1
 career-stats-settings:
@@ -30,6 +30,7 @@ champ-select:
             121: 121000
             122: 122000
             126: 126000
+            127: 127000
             13: 13000
             131: 131000
             133: 133000
@@ -40,6 +41,7 @@ champ-select:
             157: 157000
             16: 16000
             161: 161000
+            163: 163000
             164: 164000
             18: 18000
             19: 19001
@@ -69,6 +71,7 @@ champ-select:
             45: 45000
             498: 498000
             51: 51000
+            517: 517000
             518: 518000
             53: 53000
             54: 54000
@@ -116,7 +119,7 @@ champ-select:
             - 21
             4240:
             - 4
-            - 12
+            - 6
             4250:
             - 4
             - 12
@@ -125,7 +128,7 @@ champ-select:
             - 21
             450:
             - 4
-            - 32
+            - 6
             900:
             - 4
             - 14
@@ -176,7 +179,7 @@ event-hub:
             b728afa7-8100-471d-a497-104a4904618f:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2025-09-14T16:13:39.774Z"
+                lastTimeSeen: "2025-10-03T12:08:38.014Z"
     schemaVersion: 1
 event-shop:
     data:
@@ -215,7 +218,7 @@ lol-clash:
 lol-collection-champions:
     data:
         groupingDropdownKey: "undefined"
-        lastVisitTime: 1757873220121
+        lastVisitTime: 1759493378215
         lcm-eat-seen: true
         sortingDropdownKey: "undefined"
         unownedFilter: "none"
@@ -239,7 +242,7 @@ lol-collection-finishers:
 lol-collection-summoner-icons:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1757168053268
+        lastVisitTime: 1758580543133
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
@@ -254,19 +257,19 @@ lol-collection-wards:
     schemaVersion: 3
 lol-customizer-banners:
     data:
-        lastVisitTime: 1757602719478
+        lastVisitTime: 1759419706829
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1757602718003
+        lastVisitTime: 1759419703111
     schemaVersion: 1
 lol-customizer-titles:
     data:
-        lastVisitTime: 1757602718527
+        lastVisitTime: 1759419705500
     schemaVersion: 1
 lol-customizer-tokens:
     data:
-        lastVisitTime: 1757602720111
+        lastVisitTime: 1759419704941
     schemaVersion: 1
 lol-general:
     data:
@@ -464,8 +467,8 @@ lol-honor:
     schemaVersion: 1
 lol-info-hub:
     data:
-        lastUpdateTime: "2025-09-10T18:04:31.000Z"
-        latestViewedVersion: "15.18"
+        lastUpdateTime: "2025-10-02T18:01:11.000Z"
+        latestViewedVersion: "15.19"
     schemaVersion: 1
 lol-leagues:
     data:
@@ -581,7 +584,7 @@ lol-quick-play:
 lol-skins-viewer:
     data:
         groupingDropdownKey: "tier"
-        lastVisitTime: 1757866434065
+        lastVisitTime: 1758489505594
         sortingDropdownKey: "tier"
         unownedFilter: false
     schemaVersion: 2
@@ -670,7 +673,11 @@ ranked-eos-notification-19-RANKED_SOLO_5x5-SECOND_WARNING:
     data:
         notificationShown: true
     schemaVersion: 1
+shoppefront_MYTHIC_SHOP:
+    data:
+        lastViewed: "2025-09-23T19:29:00.622Z"
+    schemaVersion: 1
 yourshop:
     data:
-        lastViewedTimestamp: "2025-09-14T16:13:55.406Z"
+        lastViewedTimestamp: "2025-10-02T23:14:11.647Z"
     schemaVersion: 1

@@ -3,19 +3,19 @@ page-settings:
         pages: []
         perShardPerkBooks:
             euw1:
-                currentPageId: 387545623
+                currentPageId: 176925980
                 pages:
                 -   autoModifiedSelections: []
                     current: true
-                    id: 387545623
+                    id: 176925980
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1757873457755
-                    name: "Moba: Highest WR Xayah Build"
+                    lastModified: 1759495631436
+                    name: "Moba: Most Popular Kai'Sa Build"
                     order: 1
                     pageKeystone:
                         iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
@@ -99,7 +99,7 @@ page-settings:
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1757873437940
+                    lastModified: 1759495512245
                     name: "OP.GG adc Zeri"
                     order: 2
                     pageKeystone:
