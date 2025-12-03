@@ -34,11 +34,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "-0.0026"
+                            "value": "-0.0031"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "0.4694"
+                            "value": "0.4787"
                         },
                         {
                             "name": "ReplayNativeOffsetX",
@@ -129,7 +129,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "15.19.715.1836"
+                            "value": "15.24.730.505"
                         },
                         {
                             "name": "CursorOverride",
@@ -169,7 +169,7 @@
                         },
                         {
                             "name": "RecommendJunglePaths",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "RelativeTeamColors",
@@ -223,6 +223,10 @@
                         {
                             "name": "DrawHealthBars",
                             "value": "1"
+                        },
+                        {
+                            "name": "DynamicCameraLockMode",
+                            "value": "0"
                         },
                         {
                             "name": "EmotePopupUIDisplayMode",
@@ -307,6 +311,10 @@
                         {
                             "name": "MinimapScale",
                             "value": "1.2300"
+                        },
+                        {
+                            "name": "MinimapScaleSpectator",
+                            "value": "1.0000"
                         },
                         {
                             "name": "MirroredScoreboard",
@@ -459,11 +467,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0625"
+                            "value": "0.0461"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1472"
+                            "value": "-0.1361"
                         }
                     ]
                 },
@@ -486,6 +494,19 @@
                         {
                             "name": "EnableHUDAnimations",
                             "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Replay",
+                    "settings": [
+                        {
+                            "name": "MinimapBackgroundOpacity",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "MinimapMapOpacity",
+                            "value": "1.0000"
                         }
                     ]
                 },

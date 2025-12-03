@@ -4,8 +4,8 @@ STRAWBERRY_LOCAL_SETTINGS_V1:
     schemaVersion: 0
 activity-center:
     data:
-        tabsViewed: "{\"25-17-ac-ranked\":\"2025-08-28T21:48:05.859Z\",\"25-17-ac-doombots\":\"2025-08-29T21:59:21.364Z\",\"25-18-ac-worlds-winners\":true,\"25-19-ac-motioncomic\":true,\"25-10-ac-brawl\":true}"
-        thematicTimelineViewed: "15.2"
+        tabsViewed: "{\"25-23-ac-zaahen\":true,\"25-23-ac-exalted-arcane-jinx\":true,\"25-23-ac-dev-update\":true,\"25-24-ac-tft-set-16\":true}"
+        thematicTimelineViewed: "15.21"
     schemaVersion: 1
 career-stats-settings:
     data:
@@ -21,12 +21,15 @@ champ-select:
             103: 103000
             104: 104000
             105: 105000
+            106: 106000
             11: 11000
             110: 110009
             111: 111000
             114: 114000
+            115: 115000
             117: 117000
             119: 119000
+            12: 12000
             121: 121000
             122: 122000
             126: 126000
@@ -34,31 +37,39 @@ champ-select:
             13: 13000
             131: 131000
             133: 133000
+            141: 141000
             142: 142000
-            145: 145000
+            145: 145016
             147: 147000
             15: 15000
+            154: 154000
             157: 157000
             16: 16000
             161: 161000
             163: 163000
             164: 164000
+            166: 166000
             18: 18000
             19: 19001
             201: 201000
-            202: 202000
+            202: 202047
+            203: 203000
             21: 21000
             22: 22011
             221: 221000
             222: 222000
+            223: 223000
             233: 233000
             235: 235000
             236: 236000
             24: 24000
+            246: 246000
             25: 25000
             254: 254000
             266: 266000
+            28: 28000
             29: 29000
+            30: 30000
             32: 32000
             34: 34000
             35: 35000
@@ -70,15 +81,19 @@ champ-select:
             429: 429000
             45: 45000
             498: 498000
+            5: 5000
             51: 51000
             517: 517000
             518: 518000
+            523: 523000
             53: 53000
             54: 54000
             55: 55000
             555: 555000
+            56: 56000
             57: 57000
             58: 58000
+            59: 59000
             60: 60034
             62: 62000
             63: 63000
@@ -87,16 +102,21 @@ champ-select:
             7: 7000
             711: 711000
             76: 76000
+            77: 77000
             80: 80000
             804: 804001
             81: 81000
             84: 84000
+            85: 85000
             86: 86000
+            887: 887000
             888: 888000
             89: 89000
             895: 895000
+            9: 9000
             90: 90000
             902: 902000
+            910: 910000
             950: 950000
             96: 96000
             98: 98000
@@ -108,6 +128,9 @@ champ-select:
             1700:
             - 2202
             - 2201
+            2400:
+            - 4
+            - 32
             3100:
             - 4
             - 21
@@ -123,12 +146,15 @@ champ-select:
             4250:
             - 4
             - 12
+            4260:
+            - 4
+            - 21
             440:
             - 4
             - 21
             450:
             - 4
-            - 6
+            - 21
             900:
             - 4
             - 14
@@ -154,6 +180,9 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
+        - 3008
+        - 3141
+        - 4996
         - 4906
         - 4886
         - 3006
@@ -176,10 +205,10 @@ emotes:
 event-hub:
     data:
         playerSettingsDataMap:
-            b728afa7-8100-471d-a497-104a4904618f:
+            62937dd9-d418-4736-8d8f-b3ab83f6cb3a:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2025-10-03T12:08:38.014Z"
+                lastTimeSeen: "2025-11-25T23:01:58.735Z"
     schemaVersion: 1
 event-shop:
     data:
@@ -195,6 +224,12 @@ lol-champ-select:
     data:
         championFilterPreferenceKey: "favorite"
         favorites:
+            bottom:
+            - 221
+            - 498
+            - 145
+            - 110
+            - 22
             middle:
             - 101
             - 39
@@ -211,14 +246,14 @@ lol-chat:
     schemaVersion: 1
 lol-clash:
     data:
-        clash-eat-tooltip-37742: true
+        clash-anticheat-modal-seen: true
+        clash-eat-tooltip-37802: true
         lftPlayerToggleTooltipSeen: true
-        openTeamToggleTooltipSeen: true
     schemaVersion: 1
 lol-collection-champions:
     data:
         groupingDropdownKey: "undefined"
-        lastVisitTime: 1759493378215
+        lastVisitTime: 1763667036380
         lcm-eat-seen: true
         sortingDropdownKey: "undefined"
         unownedFilter: "none"
@@ -226,7 +261,7 @@ lol-collection-champions:
 lol-collection-chromas:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1756588611745
+        lastVisitTime: 1760135630918
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
@@ -257,19 +292,19 @@ lol-collection-wards:
     schemaVersion: 3
 lol-customizer-banners:
     data:
-        lastVisitTime: 1759419706829
+        lastVisitTime: 1763778620156
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1759419703111
+        lastVisitTime: 1763778616053
     schemaVersion: 1
 lol-customizer-titles:
     data:
-        lastVisitTime: 1759419705500
+        lastVisitTime: 1762461845062
     schemaVersion: 1
 lol-customizer-tokens:
     data:
-        lastVisitTime: 1759419704941
+        lastVisitTime: 1763776483773
     schemaVersion: 1
 lol-general:
     data:
@@ -467,8 +502,8 @@ lol-honor:
     schemaVersion: 1
 lol-info-hub:
     data:
-        lastUpdateTime: "2025-10-02T18:01:11.000Z"
-        latestViewedVersion: "15.19"
+        lastUpdateTime: "2025-11-05T19:15:18.000Z"
+        latestViewedVersion: "15.22"
     schemaVersion: 1
 lol-leagues:
     data:
@@ -583,9 +618,9 @@ lol-quick-play:
     schemaVersion: 1
 lol-skins-viewer:
     data:
-        groupingDropdownKey: "tier"
-        lastVisitTime: 1758489505594
-        sortingDropdownKey: "tier"
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1763415466026
+        sortingDropdownKey: "acquisitionDate"
         unownedFilter: false
     schemaVersion: 2
 lol-tft:
@@ -594,7 +629,7 @@ lol-tft:
         TFTLootDepPostModalViewed: true
         TFTLootDepPreModalViewed: true
         lastTFTBPSeen: "bba40b4b-0da8-4157-bd5d-12ada7a569e5"
-        lastTftSetNameSeen: "TFTSet14"
+        lastTftSetNameSeen: "TFTSet16"
         previouslySeenSeasons: "TFT8_5_Series,1686765600000,1694628000000,1706130000000"
         seenOfferIds:
             storeOfferIds:
@@ -609,10 +644,12 @@ lol-tutorial:
     data:
         Map11_RUBY_TRIAL_1_TutorialSeen: true
         Map11_RUBY_TRIAL_2_TutorialSeen: true
+        Map11_RUBY_TRIAL_3_TutorialSeen: true
         Map11_RUBY_TutorialSeen: true
         Map11_SWIFTPLAY_SWIFTPLAY_TutorialSeen: true
         Map12_ARAM_TutorialSeen: true
         Map12_CLASSIC_TutorialSeen: true
+        Map12_KIWI_TutorialSeen: true
         Map30_CHERRY_2024_05_TutorialSeen: true
         Map35_BRAWL_TutorialSeen: true
         championSelectRunesTooltipSeenCount: 9
@@ -675,9 +712,9 @@ ranked-eos-notification-19-RANKED_SOLO_5x5-SECOND_WARNING:
     schemaVersion: 1
 shoppefront_MYTHIC_SHOP:
     data:
-        lastViewed: "2025-09-23T19:29:00.622Z"
+        lastViewed: "2025-10-12T23:07:15.690Z"
     schemaVersion: 1
 yourshop:
     data:
-        lastViewedTimestamp: "2025-10-02T23:14:11.647Z"
+        lastViewedTimestamp: "2025-10-06T21:53:22.754Z"
     schemaVersion: 1
