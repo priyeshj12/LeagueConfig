@@ -129,7 +129,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "15.24.730.505"
+                            "value": "15.24.734.7485"
                         },
                         {
                             "name": "CursorOverride",
@@ -398,11 +398,11 @@
                         },
                         {
                             "name": "ShowPlayerPerks",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowPlayerStats",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowSpellCosts",
@@ -467,11 +467,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0461"
+                            "value": "0.0496"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1361"
+                            "value": "-0.1380"
                         }
                     ]
                 },

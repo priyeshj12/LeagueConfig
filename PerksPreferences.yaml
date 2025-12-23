@@ -3,19 +3,19 @@ page-settings:
         pages: []
         perShardPerkBooks:
             euw1:
-                currentPageId: 2140995349
+                currentPageId: 1133546129
                 pages:
                 -   autoModifiedSelections: []
                     current: true
-                    id: 2140995349
+                    id: 1133546129
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1764804258006
-                    name: "Moba: Most Popular Zeri Build"
+                    lastModified: 1766449509264
+                    name: "Moba: Most Popular Kai'Sa Build"
                     order: 1
                     pageKeystone:
                         iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
@@ -30,51 +30,51 @@ page-settings:
                     recommendationChampionId: 0
                     recommendationIndex: -1
                     runeRecommendationId: ""
-                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/resolve_icon_16.svg"
-                    secondaryStyleName: "Resolve"
+                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/inspiration_icon_16.svg"
+                    secondaryStyleName: "Inspiration"
                     selectedPerkIds:
                     - 8008
-                    - 9111
-                    - 9104
-                    - 8299
-                    - 8429
-                    - 8451
+                    - 8009
+                    - 9103
+                    - 8014
+                    - 8345
+                    - 8304
                     - 5005
                     - 5008
-                    - 5011
-                    subStyleId: 8400
-                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8400_k8008.jpg"
+                    - 5001
+                    subStyleId: 8300
+                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8300_k8008.jpg"
                     uiPerks:
                     -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
                         id: 8008
                         name: "Lethal Tempo"
                         slotType: "kKeyStone"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Triumph.png"
-                        id: 9111
-                        name: "Triumph"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/PresenceOfMind/PresenceOfMind.png"
+                        id: 8009
+                        name: "Presence of Mind"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendAlacrity/LegendAlacrity.png"
-                        id: 9104
-                        name: "Legend: Alacrity"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendBloodline/LegendBloodline.png"
+                        id: 9103
+                        name: "Legend: Bloodline"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/LastStand/LastStand.png"
-                        id: 8299
-                        name: "Last Stand"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/CoupDeGrace/CoupDeGrace.png"
+                        id: 8014
+                        name: "Coup de Grace"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Conditioning/Conditioning.png"
-                        id: 8429
-                        name: "Conditioning"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png"
+                        id: 8345
+                        name: "Biscuit Delivery"
                         slotType: "kMixedRegularSplashable"
-                        styleId: 8400
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Resolve/Overgrowth/Overgrowth.png"
-                        id: 8451
-                        name: "Overgrowth"
+                        styleId: 8300
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png"
+                        id: 8304
+                        name: "Magical Footwear"
                         slotType: "kMixedRegularSplashable"
-                        styleId: 8400
+                        styleId: 8300
                     -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
                         id: 5005
                         name: "Attack Speed"
@@ -85,9 +85,9 @@ page-settings:
                         name: "Adaptive Force"
                         slotType: "kStatMod"
                         styleId: 8400
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthScalingIcon.png"
-                        id: 5011
-                        name: "Health"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "Health Scaling"
                         slotType: "kStatMod"
                         styleId: 8400
                 -   autoModifiedSelections: []
@@ -99,7 +99,7 @@ page-settings:
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1764804135964
+                    lastModified: 1766449509157
                     name: "OP.GG adc Zeri"
                     order: 2
                     pageKeystone:

@@ -4,7 +4,7 @@ STRAWBERRY_LOCAL_SETTINGS_V1:
     schemaVersion: 0
 activity-center:
     data:
-        tabsViewed: "{\"25-23-ac-zaahen\":true,\"25-23-ac-exalted-arcane-jinx\":true,\"25-23-ac-dev-update\":true,\"25-24-ac-tft-set-16\":true}"
+        tabsViewed: "{\"25-23-ac-zaahen\":true,\"25-23-ac-exalted-arcane-jinx\":true,\"25-24-ac-winterblessed-mel\":true,\"25-24-ac-aram-mayhem\":true,\"25-24-ac-yourshop\":true,\"25-24-ac-mv-lucian-nami\":true,\"25-23-ac-wintermap\":true}"
         thematicTimelineViewed: "15.21"
     schemaVersion: 1
 career-stats-settings:
@@ -39,7 +39,7 @@ champ-select:
             133: 133000
             141: 141000
             142: 142000
-            145: 145016
+            145: 145000
             147: 147000
             15: 15000
             154: 154000
@@ -71,6 +71,7 @@ champ-select:
             29: 29000
             30: 30000
             32: 32000
+            33: 33000
             34: 34000
             35: 35000
             350: 350000
@@ -115,6 +116,7 @@ champ-select:
             895: 895000
             9: 9000
             90: 90000
+            901: 901000
             902: 902000
             910: 910000
             950: 950000
@@ -136,7 +138,7 @@ champ-select:
             - 21
             400:
             - 4
-            - 21
+            - 11
             420:
             - 4
             - 21
@@ -180,6 +182,7 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
+        - 5012
         - 3008
         - 3141
         - 4996
@@ -208,7 +211,7 @@ event-hub:
             62937dd9-d418-4736-8d8f-b3ab83f6cb3a:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2025-11-25T23:01:58.735Z"
+                lastTimeSeen: "2025-12-22T22:03:52.067Z"
     schemaVersion: 1
 event-shop:
     data:
@@ -248,12 +251,14 @@ lol-clash:
     data:
         clash-anticheat-modal-seen: true
         clash-eat-tooltip-37802: true
+        clash-login-modal-seen: true
         lftPlayerToggleTooltipSeen: true
+        openTeamToggleTooltipSeen: true
     schemaVersion: 1
 lol-collection-champions:
     data:
         groupingDropdownKey: "undefined"
-        lastVisitTime: 1763667036380
+        lastVisitTime: 1766197043467
         lcm-eat-seen: true
         sortingDropdownKey: "undefined"
         unownedFilter: "none"
@@ -292,19 +297,19 @@ lol-collection-wards:
     schemaVersion: 3
 lol-customizer-banners:
     data:
-        lastVisitTime: 1763778620156
+        lastVisitTime: 1765501972873
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1763778616053
+        lastVisitTime: 1766443100550
     schemaVersion: 1
 lol-customizer-titles:
     data:
-        lastVisitTime: 1762461845062
+        lastVisitTime: 1766274030963
     schemaVersion: 1
 lol-customizer-tokens:
     data:
-        lastVisitTime: 1763776483773
+        lastVisitTime: 1766443102402
     schemaVersion: 1
 lol-general:
     data:
@@ -536,7 +541,7 @@ lol-notifications:
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
-        hasSeenTutorialPath: false
+        hasSeenTutorialPath: true
         hasSkippedTutorialPath: false
         shouldSeeNewPlayerExperience: false
     schemaVersion: 1
@@ -619,7 +624,7 @@ lol-quick-play:
 lol-skins-viewer:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1763415466026
+        lastVisitTime: 1766197043467
         sortingDropdownKey: "acquisitionDate"
         unownedFilter: false
     schemaVersion: 2
@@ -716,5 +721,5 @@ shoppefront_MYTHIC_SHOP:
     schemaVersion: 1
 yourshop:
     data:
-        lastViewedTimestamp: "2025-10-06T21:53:22.754Z"
+        lastViewedTimestamp: "2025-12-22T00:54:30.005Z"
     schemaVersion: 1
