@@ -398,11 +398,11 @@
                         },
                         {
                             "name": "ShowPlayerPerks",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowPlayerStats",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowSpellCosts",
@@ -455,7 +455,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "2"
+                            "value": "0"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -467,11 +467,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0496"
+                            "value": "0.0586"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1380"
+                            "value": "-0.1611"
                         }
                     ]
                 },
