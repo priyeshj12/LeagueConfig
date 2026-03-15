@@ -1,49 +1,50 @@
-STRAWBERRY_LOCAL_SETTINGS_V1:
-    data:
-        championId: 3151
-    schemaVersion: 0
 activity-center:
     data:
-        tabsViewed: "{\"25-23-ac-zaahen\":true,\"25-23-ac-exalted-arcane-jinx\":true,\"25-24-ac-winterblessed-mel\":true,\"25-24-ac-aram-mayhem\":true,\"25-24-ac-yourshop\":true,\"25-24-ac-mv-lucian-nami\":true,\"25-23-ac-wintermap\":true}"
-        thematicTimelineViewed: "15.21"
+        lastPatchNotesViewed: "15.6"
+        tabsViewed: "{\"26-03-ac-aram-mayhem-lny\":true,\"25-24-ac-mv-asol\":true,\"26-05-ac-thematic\":true,\"26-05-ac-mv-yone\":true,\"26-05-ac-motioncomic\":true}"
+        thematicTimelineViewed: "16.5"
     schemaVersion: 1
 career-stats-settings:
     data:
         initialVisited: true
-        welcomedSeason: 16
+        recentlyComparedSummoners:
+        - 21767156
+        - 90376937
+        welcomedSeason: 15
     schemaVersion: 1
 champ-select:
     data:
         skins:
             1: 1000
             10: 10000
-            101: 101000
-            103: 103000
+            101: 101002
+            102: 102000
+            103: 103042
             104: 104000
             105: 105000
-            106: 106000
             107: 107000
             11: 11000
-            110: 110009
+            110: 110006
             111: 111000
-            112: 112000
+            113: 113000
             114: 114000
             115: 115000
             117: 117000
             119: 119000
             12: 12000
+            120: 120000
             121: 121000
             122: 122000
             126: 126000
             127: 127000
             13: 13000
-            131: 131000
             133: 133000
+            134: 134000
             136: 136000
             141: 141000
             142: 142000
-            145: 145000
-            147: 147000
+            145: 145016
+            147: 147003
             15: 15000
             154: 154000
             157: 157000
@@ -52,95 +53,137 @@ champ-select:
             163: 163000
             164: 164000
             166: 166000
+            17: 17000
             18: 18000
             19: 19001
+            20: 20000
+            200: 200000
             201: 201000
-            202: 202047
-            203: 203000
+            202: 202000
             21: 21000
-            22: 22011
-            221: 221000
-            222: 222000
-            223: 223000
+            22: 22017
+            221: 221001
+            222: 222001
+            23: 23028
             233: 233000
+            234: 234000
             235: 235000
-            236: 236000
+            236: 236009
+            238: 238000
             24: 24000
-            246: 246000
+            240: 240000
+            245: 245000
             25: 25000
-            254: 254000
+            254: 254004
+            26: 26000
             266: 266000
+            267: 267000
             268: 268000
+            27: 27000
             28: 28000
             29: 29000
+            3: 3000
             30: 30000
+            31: 31000
             32: 32000
-            33: 33000
             34: 34000
             35: 35000
             350: 350000
             36: 36000
-            39: 39002
+            360: 360000
+            37: 37000
+            39: 39037
             4: 4000
             40: 40000
+            41: 41000
+            412: 412000
+            42: 42000
+            420: 420000
+            421: 421000
+            427: 427000
             429: 429000
+            43: 43000
+            432: 432000
+            44: 44000
             45: 45000
-            498: 498000
+            48: 48000
+            497: 497000
+            498: 498001
             5: 5000
+            50: 50000
             51: 51000
             517: 517000
             518: 518000
             523: 523000
+            526: 526000
             53: 53000
             54: 54000
             55: 55000
-            555: 555000
+            555: 555064
             56: 56000
             57: 57000
             58: 58000
             59: 59000
             60: 60034
+            61: 61000
             62: 62000
             63: 63000
+            64: 64000
             67: 67000
+            68: 68000
             69: 69000
             7: 7000
             711: 711000
             72: 72000
+            74: 74000
             76: 76000
             77: 77000
+            777: 777000
+            8: 8000
             80: 80000
-            804: 804001
-            81: 81000
+            804: 804000
+            81: 81025
+            82: 82000
+            83: 83000
             84: 84000
             85: 85000
             86: 86000
+            875: 875000
+            876: 876000
             887: 887000
             888: 888000
             89: 89000
+            893: 893000
             895: 895000
             897: 897000
             9: 9000
-            90: 90000
+            90: 90038
             901: 901000
             902: 902000
-            91: 91000
-            910: 910000
-            950: 950000
+            92: 92000
             96: 96000
             98: 98000
             99: 99000
         spells:
+            1020:
+            - 4
+            - 14
             1300:
             - 4
             - 7
+            1400:
+            - 4
+            - 3
             1700:
             - 2202
             - 2201
             2400:
             - 4
-            - 32
-            3100:
+            - 6
+            3140:
+            - 6
+            - 7
+            3200:
             - 4
             - 21
             400:
@@ -148,37 +191,55 @@ champ-select:
             - 11
             420:
             - 4
-            - 6
-            4240:
-            - 4
-            - 6
-            4250:
-            - 4
-            - 12
-            4260:
-            - 4
             - 21
+            430:
+            - 4
+            - 3
             440:
             - 4
-            - 21
+            - 1
             450:
             - 4
+            - 32
+            700:
+            - 4
             - 21
+            720:
+            - 4
+            - 32
             900:
             - 4
             - 14
     schemaVersion: 1
 clash-tutorial:
     data:
+        captainInviteStep: true
+        captainLockinStep: true
+        captainRewardStep: true
+        captainRoleStep: true
+        captainTicketStep: true
         initialized: true
+        memberJoinTeamStep: true
+        memberLockinStep: true
+        memberRewardStep: true
+        memberRoleStep: true
+        memberTicketStep: true
+        rosterDetailsModalLogoStep: true
+        rosterDetailsModalNameTagStep: true
+        smsButtonStep: true
         version: 1
     schemaVersion: 1
 cosmetics-last-viewed-date:
     data:
         typeToLastOpenedDate:
-            COMPANION: 1750195733
-            TFT_DAMAGE_SKIN: 1750176090
-            TFT_MAP_SKIN: 1750176090
+            COMPANION: 1771283446
+            TFT_DAMAGE_SKIN: 1731975992
+            TFT_MAP_SKIN: 1731975987
+    schemaVersion: 1
+cosmetics-settings:
+    data:
+        companions:
+            hideUnowned: true
     schemaVersion: 1
 custom-spell-selections:
     data:
@@ -189,42 +250,45 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
-        - 5012
-        - 3008
-        - 3141
+        - 3013
+        - 5052
+        - 5048
+        - 4351
+        - 4311
+        - 5047
+        - 3209
         - 4996
+        - 4464
+        - 4705
         - 4906
-        - 4886
-        - 3006
-        - 3168
-        - 3120
-        - 4692
-        - 4220
-        - 4878
-        - 3758
+        - 3199
         - 4855
-        - 4551
-        - 3005
-        - 4801
-        - 3179
-        - 4803
-        - 4283
-        - 4284
-        - 4074
+        - 3835
+        - 4281
+        - 4073
     schemaVersion: 1
 event-hub:
     data:
         playerSettingsDataMap:
-            62937dd9-d418-4736-8d8f-b3ab83f6cb3a:
+            675bc323-891c-49f8-8314-8a6f38eb2589:
                 lastSeenTokenBalance: 0
                 lastSeenTokenShopOffersVersion: 0
-                lastTimeSeen: "2025-12-24T02:05:36.770Z"
+                lastTimeSeen: "2026-03-14T19:30:16.391Z"
+            70658d4f-4acd-4fda-9e6b-6fa2b4f5ac4c:
+                lastSeenTokenBalance: 0
+                lastSeenTokenShopOffersVersion: 0
+                lastTimeSeen: "2026-03-15T01:09:19.687Z"
     schemaVersion: 1
 event-shop:
     data:
-        lastSeenTokenBalance: 100
+        lastSeenTokenBalance: 120
         lastSeenTokenShopOffersVersion: 3048320223
-        lastTimeSeen: "2024-03-07T20:13:32.810Z"
+        lastTimeSeen: "2024-03-12T21:07:36.993Z"
+    schemaVersion: 1
+lol-challenges:
+    data:
+        introCollectionModalShown: true
+        introModalShown: true
     schemaVersion: 1
 lol-challenges-latest-level-up:
     data:
@@ -232,21 +296,23 @@ lol-challenges-latest-level-up:
     schemaVersion: 1
 lol-champ-select:
     data:
-        championFilterPreferenceKey: "favorite"
+        championTradeToggleTooltipSeen: true
         favorites:
             bottom:
             - 221
-            - 498
-            - 145
-            - 110
-            - 22
             middle:
             - 101
             - 39
+            - 145
             support:
             - 101
+            top:
+            - 103
+            - 39
+        positionSwapToggleTooltipSeen: true
         reportAndMutingTooltipShown: true
         runeRecommenderTutorialTipSeen: true
+        swapJungleToggleTooltipSeen: true
         swapToggleTooltipSeen: true
     schemaVersion: 0
 lol-chat:
@@ -257,15 +323,14 @@ lol-chat:
 lol-clash:
     data:
         clash-anticheat-modal-seen: true
-        clash-eat-tooltip-37802: true
-        clash-login-modal-seen: true
+        clash-eat-tooltip-37882: true
         lftPlayerToggleTooltipSeen: true
         openTeamToggleTooltipSeen: true
     schemaVersion: 1
 lol-collection-champions:
     data:
         groupingDropdownKey: "undefined"
-        lastVisitTime: 1766197043467
+        lastVisitTime: 1773531695773
         lcm-eat-seen: true
         sortingDropdownKey: "undefined"
         unownedFilter: "none"
@@ -273,7 +338,7 @@ lol-collection-champions:
 lol-collection-chromas:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1760135630918
+        lastVisitTime: 1772233982951
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
@@ -281,7 +346,7 @@ lol-collection-chromas:
 lol-collection-finishers:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1756588611745
+        lastVisitTime: 1731627212807
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
@@ -289,7 +354,7 @@ lol-collection-finishers:
 lol-collection-summoner-icons:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1758580543133
+        lastVisitTime: 1771286688221
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
@@ -297,26 +362,26 @@ lol-collection-summoner-icons:
 lol-collection-wards:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1756588611745
+        lastVisitTime: 1739673703729
         sortingDropdownKey: "acquisitionDate"
         unavailableFilter: false
         unownedFilter: false
     schemaVersion: 3
 lol-customizer-banners:
     data:
-        lastVisitTime: 1765501972873
+        lastVisitTime: 1773258379783
     schemaVersion: 1
 lol-customizer-icons:
     data:
-        lastVisitTime: 1766534422674
+        lastVisitTime: 1773533877361
     schemaVersion: 1
 lol-customizer-titles:
     data:
-        lastVisitTime: 1766274030963
+        lastVisitTime: 1772334782052
     schemaVersion: 1
 lol-customizer-tokens:
     data:
-        lastVisitTime: 1766534424791
+        lastVisitTime: 1773359760915
     schemaVersion: 1
 lol-general:
     data:
@@ -329,6 +394,123 @@ lol-home:
     schemaVersion: 1
 lol-home-hubs:
     data:
+        anima-squad-hub-2022:
+            userChampResult: "sylas"
+            watchedIntro: true
+        boba-minigame:
+            FTUXConvosHeard:
+            - "FTUX_Narrative"
+            - "FTUX_Combat"
+            - "FTUX_BossAtk"
+            - "FTUX_Map"
+            - "FTUX_Shop"
+            - "FTUX_MapPt2"
+            - "FTUX_Rest"
+            - "FTUX_RareSigils"
+            - "FTUX_Win"
+            - "FTUX_Endless"
+            Version: 1
+            animationsSeen:
+            - 1
+            - 2
+            ascensionLevel: 0
+            battlesWon: 6
+            clearedDemon: false
+            clearedHard: true
+            clearedStory: true
+            completedMapNodes: []
+            conversationsPlayed:
+            - 5
+            - 5
+            - 5
+            - 5
+            - 5
+            - 5
+            - 5
+            - 5
+            - 6
+            - 4
+            currency: 18
+            currentMapEnemies:
+            -   enemyId: "minotaur"
+                nodeId: 12
+            -   enemyId: "flock_of_ravens"
+                nodeId: 11
+            -   enemyId: "wolf"
+                nodeId: 7
+            -   enemyId: "tri_tail_huntress"
+                nodeId: 8
+            -   enemyId: "deadly_fox"
+                nodeId: 5
+            -   enemyId: "imposing_fox"
+                nodeId: 3
+            -   enemyId: "tri_tail"
+                nodeId: 1
+            -   enemyId: "stampeding_bison"
+                nodeId: 999
+            demonHand: 0
+            encounteredEnemies:
+            - "stampeding_bison"
+            - "tri_tail"
+            - "imposing_fox"
+            - "deadly_fox"
+            - "tri_tail_huntress"
+            - "flock_of_ravens"
+            - "minotaur"
+            flush: 0
+            fullHouse: 4
+            hasSeenIntroComic: true
+            hasSeenOutroComic: true
+            high: 5
+            highestBattlesWon: 18
+            highestDamageDealtAllTime: 1376
+            highestDamageDealtThisRun: 483
+            highestTotalDamageDealtAllTime: 16499
+            highestTotalGoldEarned: 143
+            hp: 34
+            isFirstPlaythrough: false
+            mapIndex: 0
+            mostPlayed: 5
+            pair: 5
+            quads: 0
+            retortsPlayed: []
+            runBonusStats:
+                BonusBaseCardDamage: 0
+                BonusCritChance: 2
+                BonusMaxHp: 0
+            runNum: 13
+            selectedDifficulty: 2
+            settingsSaveState:
+                ambienceVolume: 1
+                brightness: 1
+                contrast: 1
+                gamma: 1
+                mainVolume: 0
+                musicVolume: 0.124100
+                sfxVolume: 1
+            sigilSaveState:
+                SigilProgression:
+                - 0
+                - 0
+                - 0
+                - 0
+                - 0
+                - 0
+                Sigils:
+                - "triadic+"
+                - ""
+                - ""
+                - ""
+                - ""
+                - ""
+            straight: 7
+            straightFlush: 0
+            totalDamageDealtThisRun: 3237
+            totalGoldEarned: 38
+            triples: 1
+            twoPair: 6
+            usePlaytestSigilsSet: false
+            wonLastGame: false
         lol-worlds-embed-2024:
             ambientAudioDisabled: "false"
             motionDisabled: "false"
@@ -338,175 +520,79 @@ lol-home-hubs:
             showSpoilersPlayInsStage: "false"
             showSpoilersSchedule: "false"
             showSpoilersSwissStage: "false"
-        mgs-sohh:
-            MuteBGM: false
-            MuteSFX: false
-            curRoom: 4
-            dataVersion: "6.23"
-            furnitureState:
-            - true
-            - true
-            - true
-            - false
-            - false
-            - false
-            - false
-            - true
-            - true
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            gameEvents:
-            - true
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - true
-            - false
-            - false
-            - true
-            - true
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            - false
-            inventoryState:
-            - 15
-            - 6
-            - 17
-            - 37
-            - 11
-            - 23
-            - -1
-            - -1
-            - -1
-            - -1
-            - -1
-            - -1
-            - -1
-            - -1
-            - -1
-            - -1
-            itemsPickedUp:
-            - 0
-            - 2
-            - 4
-            itemsState:
-            - false
-            - false
-            - false
-            - false
-            - true
-            - false
-            - false
-            - false
-            - true
-            - false
-            - false
-            - true
-            - true
-            - false
-            - false
-            - false
-            - false
-            - false
-            - true
-            motionComicState:
-            - true
-            - false
-            npcStates:
-            - false
-            - false
-            puzzleCompleted:
-            - false
-            - false
-            - false
-            - false
-            - false
-            puzzleState_0:
-            - -1
-            - 2
-            - -1
-            - -1
-            - -1
-            - -1
-            - -1
-            - 3
-            puzzleState_1:
-            - -1
-            - -1
-            - -1
-            - 9
-            - -1
-            - -1
-            - -1
-            - -1
-            - 14
-            puzzleState_2:
-            - 16
-            - 20
-            - 21
-            - 25
-            - 19
-            - 31
-            - -1
-            - -1
-            puzzleState_3:
-            - 35
-            - -1
-            - -1
-            - 28
-            - -1
-            - 18
-            - -1
-            - 29
-            puzzleState_4:
-            - 38
-            - -1
-            - -1
-            - 26
-            - -1
-            - 22
-            - 32
-            - 33
-            resumeGameNarration: 0
-            resumePostGameNarration: 0
-            roomsVisited: 2
-            timeActive: 116.739410
-            timeOnComplete: 0
-            timeTakenForge: 0
-            timeTakenInstrument: 0
-            timeTakenLissandra: 0
-            timeTakenOrnn: 35.118542
-            timeTakenTools: 0
-            timeTakenVolibear: 9.715357
+        lunar-legends-festival-hub-2022:
+            watchedIntro: 1
+        lunar-revel-embed-2023:
+            introThemeSelectWatched: "true"
+            introWatched: "true"
+        lunar-revel-hub-2022:
+            ambientAudioDisabled: false
+            currentTheme: "fire"
+            watchedTencentFireIntro: false
+            watchedTencentPorcIntro: false
+        mgs-crepe:
+            audioSettings:
+                ambientVolume: 100
+                closedCaptions: true
+                masterVolume: 28
+                musicVolume: 100
+                sfxVolume: 100
+                voVolume: 100
+            controlsSettings:
+                invertYAxis: false
+                keybindOverrides: ""
+                suppressExitConfirmationWindow: false
+            dataVersion: "5.28.3"
+            graphicsSettings:
+                cameraSensitivity: 20
+                contrast: 0
+                fieldOfView: 55
+                gamma: 50
+                lessDizzyMode: false
+                reduceMotion: false
+                showRotateCursor: true
+                textSize: 10
+            room1Complete: false
+            room2Complete: false
+            room3Complete: false
+            suppressSpoilerScreen:
+                room1: true
+                room2: false
+                room3: false
         msi-embed-2023:
             introWatched: "true"
+        msi-hub-2022:
+            showSpoilersSchedule: false
+        new-champions-hub-2022:
+            ambientAudioDisabled: true
+        season-start-hub-2022:
+            watchedIntro: true
+        star-guardians-metagame-hub-2022:
+            0: "[\"44f197421596c192c657971323741965\"]"
+            1: "6"
+            2: "1"
+            ambientAudioDisabled: "true"
+            fallbackSaved: "true"
+            fellback: "false"
+            introWatched: "true"
+            motionDisabled: "true"
+            tutorialWatched: "true"
+        tft-st13-2024:
+            ambientAudioDisabled: "false"
+            motionDisabled: "false"
+            page: "null"
+            redirectTo: "null"
+            seenIntro: "3"
+            seenPhase: "null"
+            slide: "\"c857ff475f139ee3c80397447694c66f\""
+            tab: "\"5ff2d79e6de0e93ecf0189f75b72d13e\""
+            viewedPages: "[]"
+            winnerSeen: "false"
+        winterblessed-embed-2022:
+            introWatched: "true"
+        worlds-hub-2022:
+            introSkinLineWatched: "true"
+            introWorldsEventPassWatched: "true"
     schemaVersion: 1
 lol-honor:
     data:
@@ -514,7 +600,7 @@ lol-honor:
     schemaVersion: 1
 lol-info-hub:
     data:
-        lastUpdateTime: "2025-11-05T19:15:18.000Z"
+        lastUpdateTime: 0
         latestViewedVersion: "15.22"
     schemaVersion: 1
 lol-leagues:
@@ -526,17 +612,25 @@ lol-leagues:
         hasSeenFlexRestrictionModal: true
         last-split-end-notification: 20
         last-split-start-modal: 13.100000
-        season-memorial-modal: 19
+        season-memorial-modal: 20
         season-start-takeover:
-            season: 20
+            season: 21
     schemaVersion: 1
 lol-loot:
     data:
         mass-disenchant-tooltip-seen: true
+        mythicEssenceModalSeen: true
+        mythicEssenceNavigationTooltipSeen: true
         sanctumEATSeen: true
         watchedFirstTimeNachoVideos:
         - "/lol-game-data/assets/ASSETS/Nacho/skin-intro.LOL_Project_Nacho_Initial_Banner.webm"
         - "/lol-game-data/assets/ASSETS/Nacho/sett-skin-intro_v2.Exalted_Sett_Sanctum_Banner.webm"
+        - "/lol-game-data/assets/ASSETS/Nacho/Nacho_RollSequence_Exalted_Mordekaiser_2k.webm"
+        watchedSanctumBannerVideos:
+        - "/lol-game-data/assets/ASSETS/Nacho/skin-intro.LOL_Project_Nacho_Initial_Banner.webm"
+        - "/lol-game-data/assets/ASSETS/Nacho/sett-skin-intro_v2.Exalted_Sett_Sanctum_Banner.webm"
+        - "/lol-game-data/assets/ASSETS/Nacho/Nacho_RollSequence_Exalted_Mordekaiser_2k.webm"
+        - "/lol-game-data/assets/ASSETS/Characters/Viego/Skins/Skin43/AnimatedSplash/Viego_Skin43_SanctumIntro.webm"
     schemaVersion: 1
 lol-navigation:
     data:
@@ -544,7 +638,9 @@ lol-navigation:
     schemaVersion: 0
 lol-notifications:
     data:
-        rgmNotificationTimestamp: 1699054282243
+        disableCollectionsNotifications: false
+        disableEsportsNotifications: true
+        rgmNotificationTimestamp: 1698702140953
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -559,11 +655,8 @@ lol-parties:
     schemaVersion: 1
 lol-parties-game-select:
     data:
-        lastSeenDateMillisByQueueId:
-            1840: 1723767660030
-            6120: 1751670575290
         role-swap-ftux-modal-seen: true
-    schemaVersion: 1
+    schemaVersion: 0
 lol-perks:
     data:
         playerFlashOnFPreference: false
@@ -571,15 +664,18 @@ lol-perks:
 lol-player-behavior:
     data:
         codeOfConductAccepted: true
+        codeOfConductExpiration: 1801530208309
     schemaVersion: 0
 lol-premade-voice:
     data:
         autoJoin: false
         inputMode: "voiceActivity"
         muteOnConnect: false
-        pushToTalkKey: "[v]"
+        pushToTalkKey: "[<Unbound>]"
+        pushToTalkTeamKey: "[<Unbound>]"
         showFirstExperienceInGame: false
         showFirstExperienceInLCU: false
+        teamVoiceEnabled: false
     schemaVersion: 1
 lol-profiles:
     data:
@@ -588,50 +684,50 @@ lol-profiles:
 lol-quick-play:
     data:
         slots:
-        -   championId: 145
-            perks: "{\"perkIds\":[8008,8009,9103,8014,8345,8304,5005,5008,5001],\"perkStyle\":8000,\"perkSubStyle\":8300}"
-            positionPreference: "BOTTOM"
-            skinId: 145000
-            spell1: 4
-            spell2: 21
         -   championId: 60
-            perks: "{\"perkIds\":[8128,8126,8140,8105,8014,9111,5008,5008,5011],\"perkStyle\":8100,\"perkSubStyle\":8000}"
+            perks: "{\"perkIds\":[8128,8143,8136,8135,8014,9111,5005,5008,5011],\"perkStyle\":8100,\"perkSubStyle\":8000}"
             positionPreference: "UTILITY"
             skinId: 60000
+            spell1: 4
+            spell2: 14
+        -   championId: 101
+            perks: "{\"perkIds\":[8229,8226,8210,8237,8014,8009,5008,5008,5001],\"perkStyle\":8200,\"perkSubStyle\":8000}"
+            positionPreference: "BOTTOM"
+            skinId: 101002
             spell1: 4
             spell2: 7
         slotsByQueueId:
             2300:
-            -   championId: 147
-                perks: "{\"perkIds\":[8229,8226,8210,8237,8345,8347,5007,5008,5011],\"perkStyle\":8200,\"perkSubStyle\":8300}"
-                positionPreference: "BOTTOM"
-                skinId: 147000
-                spell1: 4
-                spell2: 7
-            -   championId: 101
-                perks: "{\"perkIds\":[8229,8226,8210,8237,8345,8347,5008,5008,5001],\"perkStyle\":8200,\"perkSubStyle\":8300}"
-                positionPreference: "UTILITY"
-                skinId: 101000
-                spell1: 4
-                spell2: 3
-            480:
             -   championId: 145
-                perks: "{\"perkIds\":[8005,8009,9103,8014,8345,8304,5005,5008,5001],\"perkStyle\":8000,\"perkSubStyle\":8300}"
+                perks: "{\"perkIds\":[8008,8009,9103,8014,8345,8304,5005,5008,5001],\"perkStyle\":8000,\"perkSubStyle\":8300}"
                 positionPreference: "BOTTOM"
                 skinId: 145000
                 spell1: 4
                 spell2: 21
+            -   championId: 22
+                perks: "{\"perkIds\":[8008,8009,9104,8017,8410,8345,5005,5008,5011],\"perkStyle\":8000,\"perkSubStyle\":8300}"
+                positionPreference: "UTILITY"
+                skinId: 22017
+                spell1: 4
+                spell2: 21
+            480:
             -   championId: 39
-                perks: "{\"perkIds\":[8010,9111,9104,8299,8345,8316,5005,5008,5001],\"perkStyle\":8000,\"perkSubStyle\":8300}"
-                positionPreference: "TOP"
-                skinId: 39002
+                perks: "{\"perkIds\":[8010,9111,9104,8299,8345,8347,5005,5008,5001],\"perkStyle\":8000,\"perkSubStyle\":8300}"
+                positionPreference: "MIDDLE"
+                skinId: 39037
+                spell1: 4
+                spell2: 14
+            -   championId: 81
+                perks: "{\"perkIds\":[8369,8304,8345,8347,8226,8210,5005,5008,5001],\"perkStyle\":8300,\"perkSubStyle\":8200}"
+                positionPreference: "BOTTOM"
+                skinId: 81025
                 spell1: 4
                 spell2: 7
     schemaVersion: 1
 lol-skins-viewer:
     data:
         groupingDropdownKey: "myCollection"
-        lastVisitTime: 1766197043467
+        lastVisitTime: 1773516625744
         sortingDropdownKey: "acquisitionDate"
         unownedFilter: false
     schemaVersion: 2
@@ -640,34 +736,42 @@ lol-tft:
         TFTContentRetierModalViewed: true
         TFTLootDepPostModalViewed: true
         TFTLootDepPreModalViewed: true
-        lastTFTBPSeen: "bba40b4b-0da8-4157-bd5d-12ada7a569e5"
+        lastTFTBPSeen: "b5462d93-5931-4c56-a4e0-00d29ad65e51"
+        lastTftGameQueueId: 1090
         lastTftSetNameSeen: "TFTSet16"
-        previouslySeenSeasons: "TFT8_5_Series,1686765600000,1694628000000,1706130000000"
+        previouslySeenSeasons: "TFT7_Series,TFT7_5_Series,TFT8_Series,TFT8_5_Series,1686765600000,1694541600000,1694628000000,1706130000000"
         seenOfferIds:
             storeOfferIds:
-            - "dccf8aea-4770-4e1a-ae90-e0009c5f8f87"
-            - "e3f593a0-c4e0-487b-a40d-8ca6eb0cd1d6"
+            - "c8f5ae82-7422-4272-bc01-5423cbf59a45"
+            - "ece933d9-6d07-4ac5-be27-592a75901ab1"
             tacticianOfferIds:
-            - "6c726bb3-3129-440b-9d32-c764c7a57791"
+            - "b9d84625-78e6-418b-b123-f64a2bcce756"
+            - "2e9786c6-8f50-454e-bf3f-f620897a83ba"
         shouldShowTFTNPEQueueUnlock: true
         tftEmeraldModalSeen: true
     schemaVersion: 1
 lol-tutorial:
     data:
-        Map11_RUBY_TRIAL_1_TutorialSeen: true
-        Map11_RUBY_TRIAL_2_TutorialSeen: true
-        Map11_RUBY_TRIAL_3_TutorialSeen: true
-        Map11_RUBY_TutorialSeen: true
         Map11_SWIFTPLAY_SWIFTPLAY_TutorialSeen: true
         Map12_ARAM_TutorialSeen: true
-        Map12_CLASSIC_TutorialSeen: true
+        Map12_KIWI_16_03_TutorialSeen: true
         Map12_KIWI_TutorialSeen: true
-        Map30_CHERRY_2024_05_TutorialSeen: true
+        Map12_SWIFTPLAY_SWIFTPLAY_TutorialSeen: true
+        Map21_NEXUSBLITZ_TutorialSeen: true
+        Map22_TFT_TFT_PAIRS_TutorialSeen: true
+        Map22_TFT_TutorialSeen: true
+        Map30_CHERRY_TutorialSeen: true
         Map35_BRAWL_TutorialSeen: true
-        championSelectRunesTooltipSeenCount: 9
+        championSelectRunesTooltipSeenCount: 11
         perksCreateNewPageSeen: true
         perksPresetPagesSeen: true
+        perksPrimaryPathSeen: true
+        perksStatModsSeen: true
     schemaVersion: 1
+missions-settings:
+    data:
+        selected_series: "Arcane2024_Series"
+    schemaVersion: 0
 parties-settings:
     data:
         Parties:
@@ -678,6 +782,22 @@ partiesPositionPreferences:
         firstPreference: "BOTTOM"
         secondPreference: "UTILITY"
     schemaVersion: 0
+personalized-offers:
+    data:
+        lastViewedTimestamp: "2022-08-11T18:44:21.572Z"
+    schemaVersion: 1
+ranked-eos-notification-12-RANKED_SOLO_5x5-FIRST_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-12-RANKED_SOLO_5x5-SEASON_ENDED:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-12-RANKED_SOLO_5x5-SECOND_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
 ranked-eos-notification-13-RANKED_SOLO_5x5-FIRST_WARNING:
     data:
         notificationShown: true
@@ -698,15 +818,19 @@ ranked-eos-notification-15-RANKED_SOLO_5x5-SECOND_WARNING:
     data:
         notificationShown: true
     schemaVersion: 1
-ranked-eos-notification-16-RANKED_SOLO_5x5-SEASON_ENDED:
-    data:
-        notificationShown: true
-    schemaVersion: 1
 ranked-eos-notification-16-RANKED_SOLO_5x5-SECOND_WARNING:
     data:
         notificationShown: true
     schemaVersion: 1
 ranked-eos-notification-17-RANKED_SOLO_5x5-FIRST_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-17-RANKED_SOLO_5x5-SECOND_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-18-RANKED_SOLO_5x5-FIRST_WARNING:
     data:
         notificationShown: true
     schemaVersion: 1
@@ -728,9 +852,9 @@ ranked-eos-notification-20-RANKED_SOLO_5x5-FIRST_WARNING:
     schemaVersion: 1
 shoppefront_MYTHIC_SHOP:
     data:
-        lastViewed: "2025-10-12T23:07:15.690Z"
+        lastViewed: "2026-02-13T21:20:18.229Z"
     schemaVersion: 1
 yourshop:
     data:
-        lastViewedTimestamp: "2025-12-22T00:54:30.005Z"
+        lastViewedTimestamp: "2026-03-09T18:55:49.456Z"
     schemaVersion: 1

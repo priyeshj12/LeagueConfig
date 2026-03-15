@@ -3,105 +3,20 @@ page-settings:
         pages: []
         perShardPerkBooks:
             euw1:
-                currentPageId: 67211506
+                currentPageId: 1477564566
                 pages:
                 -   autoModifiedSelections: []
                     current: true
-                    id: 67211506
+                    id: 1477564566
                     isActive: false
                     isDeletable: true
                     isEditable: true
                     isRecommendationOverride: false
                     isTemporary: false
                     isValid: true
-                    lastModified: 1766797965451
-                    name: "Moba: Most Popular Zeri Build"
-                    order: 1
-                    pageKeystone:
-                        iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Conqueror/Conqueror.png"
-                        id: 8010
-                        name: "Conqueror"
-                        slotType: "kKeyStone"
-                        styleId: 8000
-                    primaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/precision_icon_16.svg"
-                    primaryStyleId: 8000
-                    primaryStyleName: "Precision"
-                    quickPlayChampionIds: []
-                    recommendationChampionId: 0
-                    recommendationIndex: -1
-                    runeRecommendationId: ""
-                    secondaryStyleIconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/sorcery_icon_16.svg"
-                    secondaryStyleName: "Sorcery"
-                    selectedPerkIds:
-                    - 8010
-                    - 9111
-                    - 9104
-                    - 8017
-                    - 8233
-                    - 8236
-                    - 5005
-                    - 5008
-                    - 5011
-                    subStyleId: 8200
-                    tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8200_k8010.jpg"
-                    uiPerks:
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Conqueror/Conqueror.png"
-                        id: 8010
-                        name: "Conqueror"
-                        slotType: "kKeyStone"
-                        styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Triumph.png"
-                        id: 9111
-                        name: "Triumph"
-                        slotType: "kMixedRegularSplashable"
-                        styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendAlacrity/LegendAlacrity.png"
-                        id: 9104
-                        name: "Legend: Alacrity"
-                        slotType: "kMixedRegularSplashable"
-                        styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/CutDown/CutDown.png"
-                        id: 8017
-                        name: "Cut Down"
-                        slotType: "kMixedRegularSplashable"
-                        styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/AbsoluteFocus/AbsoluteFocus.png"
-                        id: 8233
-                        name: "Absolute Focus"
-                        slotType: "kMixedRegularSplashable"
-                        styleId: 8200
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/GatheringStorm/GatheringStorm.png"
-                        id: 8236
-                        name: "Gathering Storm"
-                        slotType: "kMixedRegularSplashable"
-                        styleId: 8200
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
-                        id: 5005
-                        name: "Attack Speed"
-                        slotType: "kStatMod"
-                        styleId: 8400
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAdaptiveForceIcon.png"
-                        id: 5008
-                        name: "Adaptive Force"
-                        slotType: "kStatMod"
-                        styleId: 8400
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthScalingIcon.png"
-                        id: 5011
-                        name: "Health"
-                        slotType: "kStatMod"
-                        styleId: 8400
-                -   autoModifiedSelections: []
-                    current: false
-                    id: 452371556
-                    isActive: false
-                    isDeletable: true
-                    isEditable: true
-                    isRecommendationOverride: false
-                    isTemporary: false
-                    isValid: true
-                    lastModified: 1766797840806
-                    name: "OP.GG adc Zeri"
-                    order: 2
+                    lastModified: 1773534099422
+                    name: "Moba: Most Popular Kai'Sa Build"
+                    order: 0
                     pageKeystone:
                         iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png"
                         id: 8008
@@ -119,14 +34,14 @@ page-settings:
                     secondaryStyleName: "Inspiration"
                     selectedPerkIds:
                     - 8008
-                    - 9111
-                    - 9104
-                    - 8299
+                    - 8009
+                    - 9103
+                    - 8014
+                    - 8345
                     - 8304
-                    - 8347
                     - 5005
                     - 5008
-                    - 5011
+                    - 5001
                     subStyleId: 8300
                     tooltipBgPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/p8000_s8300_k8008.jpg"
                     uiPerks:
@@ -135,29 +50,29 @@ page-settings:
                         name: "Lethal Tempo"
                         slotType: "kKeyStone"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/Triumph.png"
-                        id: 9111
-                        name: "Triumph"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/PresenceOfMind/PresenceOfMind.png"
+                        id: 8009
+                        name: "Presence of Mind"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendAlacrity/LegendAlacrity.png"
-                        id: 9104
-                        name: "Legend: Alacrity"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/LegendBloodline/LegendBloodline.png"
+                        id: 9103
+                        name: "Legend: Bloodline"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Sorcery/LastStand/LastStand.png"
-                        id: 8299
-                        name: "Last Stand"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Precision/CoupDeGrace/CoupDeGrace.png"
+                        id: 8014
+                        name: "Coup de Grace"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8000
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/BiscuitDelivery/BiscuitDelivery.png"
+                        id: 8345
+                        name: "Biscuit Delivery"
+                        slotType: "kMixedRegularSplashable"
+                        styleId: 8300
                     -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/MagicalFootwear/MagicalFootwear.png"
                         id: 8304
                         name: "Magical Footwear"
-                        slotType: "kMixedRegularSplashable"
-                        styleId: 8300
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/Styles/Inspiration/CosmicInsight/CosmicInsight.png"
-                        id: 8347
-                        name: "Cosmic Insight"
                         slotType: "kMixedRegularSplashable"
                         styleId: 8300
                     -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsAttackSpeedIcon.png"
@@ -170,18 +85,16 @@ page-settings:
                         name: "Adaptive Force"
                         slotType: "kStatMod"
                         styleId: 8400
-                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthScalingIcon.png"
-                        id: 5011
-                        name: "Health"
+                    -   iconPath: "/lol-game-data/assets/v1/perk-images/StatMods/StatModsHealthPlusIcon.png"
+                        id: 5001
+                        name: "Health Scaling"
                         slotType: "kStatMod"
                         styleId: 8400
         settings:
             gameplayPatchVersionSeen: "14.1"
             gameplayUpdatedPerksSeen:
-            - 8137
-            - 8140
-            - 8141
+            - 8224
             gridModeEnabled: true
-            showLongDescriptions: false
+            showLongDescriptions: true
             showPresetPages: true
     schemaVersion: 5

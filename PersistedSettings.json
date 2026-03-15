@@ -34,11 +34,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "-0.0031"
+                            "value": "-0.0043"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "0.4787"
+                            "value": "0.4824"
                         },
                         {
                             "name": "ReplayNativeOffsetX",
@@ -128,8 +128,24 @@
                             "value": "0"
                         },
                         {
+                            "name": "CameraMode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "CameraModeWASD",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CameraOffsetScale",
+                            "value": "0.3300"
+                        },
+                        {
+                            "name": "CameraZoomOnMouseScroll",
+                            "value": "1"
+                        },
+                        {
                             "name": "CfgVersion",
-                            "value": "15.24.734.7485"
+                            "value": "16.5.752.7101"
                         },
                         {
                             "name": "CursorOverride",
@@ -137,6 +153,14 @@
                         },
                         {
                             "name": "CursorScale",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "DashHandlingType",
+                            "value": "1"
+                        },
+                        {
+                            "name": "DynamicCameraSpeed",
                             "value": "0.5000"
                         },
                         {
@@ -148,11 +172,19 @@
                             "value": "0"
                         },
                         {
+                            "name": "EnableScoutAheadPopOut",
+                            "value": "1"
+                        },
+                        {
                             "name": "EnableScreenShake",
                             "value": "0"
                         },
                         {
                             "name": "EnableTargetedAttackMove",
+                            "value": "1"
+                        },
+                        {
+                            "name": "FlashHandlingType",
                             "value": "1"
                         },
                         {
@@ -164,12 +196,16 @@
                             "value": "0"
                         },
                         {
+                            "name": "OffsetEdgepanSpeed",
+                            "value": "0.5000"
+                        },
+                        {
                             "name": "PredictMovement",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "RecommendJunglePaths",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "RelativeTeamColors",
@@ -190,6 +226,10 @@
                         {
                             "name": "ThemeMusic",
                             "value": "1"
+                        },
+                        {
+                            "name": "WASDMovementRotation",
+                            "value": "0"
                         }
                     ]
                 },
@@ -290,7 +330,7 @@
                         },
                         {
                             "name": "MapScrollSpeed",
-                            "value": "0.3500"
+                            "value": "0.3100"
                         },
                         {
                             "name": "MiddleClickDragScrollEnabled",
@@ -302,7 +342,7 @@
                         },
                         {
                             "name": "MinimapEnableAllTimers",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "MinimapMoveSelf",
@@ -318,6 +358,10 @@
                         },
                         {
                             "name": "MirroredScoreboard",
+                            "value": "0"
+                        },
+                        {
+                            "name": "Movement Mode",
                             "value": "0"
                         },
                         {
@@ -370,6 +414,10 @@
                         },
                         {
                             "name": "ShowAttackRadius",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowAutoAttackRangeIndicatorLine",
                             "value": "1"
                         },
                         {
@@ -455,7 +503,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "2"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -467,11 +515,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0586"
+                            "value": "0.2086"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1611"
+                            "value": "-0.1556"
                         }
                     ]
                 },
@@ -494,19 +542,6 @@
                         {
                             "name": "EnableHUDAnimations",
                             "value": "1"
-                        }
-                    ]
-                },
-                {
-                    "name": "Replay",
-                    "settings": [
-                        {
-                            "name": "MinimapBackgroundOpacity",
-                            "value": "1.0000"
-                        },
-                        {
-                            "name": "MinimapMapOpacity",
-                            "value": "1.0000"
                         }
                     ]
                 },
@@ -655,6 +690,10 @@
                             "value": "[Button 5]"
                         },
                         {
+                            "name": "evtCastRoleBound",
+                            "value": "[v]"
+                        },
+                        {
                             "name": "evtCastSpell1",
                             "value": "[q]"
                         },
@@ -759,6 +798,10 @@
                             "value": "null"
                         },
                         {
+                            "name": "evtNormalCastRoleBound",
+                            "value": ""
+                        },
+                        {
                             "name": "evtNormalCastSpell1",
                             "value": "[<Unbound>]"
                         },
@@ -848,7 +891,7 @@
                         },
                         {
                             "name": "evtPushToTalk",
-                            "value": "[v]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtRadialEmoteInstantOpen",
@@ -971,6 +1014,10 @@
                             "value": "[Alt][7]"
                         },
                         {
+                            "name": "evtSelfCastRoleBound",
+                            "value": "[Alt][v],"
+                        },
+                        {
                             "name": "evtSelfCastSpell1",
                             "value": "[Alt][q],"
                         },
@@ -1043,6 +1090,10 @@
                             "value": "[Shift][7]"
                         },
                         {
+                            "name": "evtSmartCastRoleBound",
+                            "value": "[Shift][v]"
+                        },
+                        {
                             "name": "evtSmartCastSpell1",
                             "value": "[<Unbound>]"
                         },
@@ -1093,6 +1144,10 @@
                         {
                             "name": "evtSmartCastWithIndicatorItem6",
                             "value": "null"
+                        },
+                        {
+                            "name": "evtSmartCastWithIndicatorRoleBound",
+                            "value": ""
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell1",
@@ -1147,6 +1202,10 @@
                             "value": "null"
                         },
                         {
+                            "name": "evtSmartPlusSelfCastRoleBound",
+                            "value": ""
+                        },
+                        {
                             "name": "evtSmartPlusSelfCastSpell1",
                             "value": "[<Unbound>]"
                         },
@@ -1197,6 +1256,10 @@
                         {
                             "name": "evtSmartPlusSelfCastWithIndicatorItem6",
                             "value": "null"
+                        },
+                        {
+                            "name": "evtSmartPlusSelfCastWithIndicatorRoleBound",
+                            "value": ""
                         },
                         {
                             "name": "evtSmartPlusSelfCastWithIndicatorSpell1",
@@ -1313,6 +1376,10 @@
                             "value": "1"
                         },
                         {
+                            "name": "evtCastRoleBoundsmart",
+                            "value": "1"
+                        },
+                        {
                             "name": "evtCastSpell1smart",
                             "value": "1"
                         },
@@ -1375,11 +1442,7 @@
                     "name": "WASD",
                     "settings": [
                         {
-                            "name": "HoldShowScoreBoard",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "ShowScoreBoard",
+                            "name": "PlayerPingCursorDanger",
                             "value": "[<Unbound>]"
                         }
                     ]
